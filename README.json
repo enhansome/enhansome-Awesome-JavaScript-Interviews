@@ -1,0 +1,1235 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Checkout my Deep Learning | Machine Learning YouTube Channel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Below are a collection of super-popular Interview questions, along with explanations and implementation examples that I was putting together for myself while preparing for my first Full-Stack JavaScript job interviews."
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":link: coding-interview-university",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 358602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: best javascript-algorithms github repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Front-end-Developer-Interview-Questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-06-16T23:06:47Z",
+            "owner": "h5bp",
+            "repo": "Front-end-Developer-Interview-Questions",
+            "stars": 60881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: reactjs-interview-questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T09:27:28Z",
+            "owner": "sudheerj",
+            "repo": "reactjs-interview-questions",
+            "stars": 44729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: front-end-interview-handbook",
+          "description": "Almost complete answers to \"Front-end Job Interview Questions\" which you can use to interview potential candidates, test yourself or completely ignore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T08:25:31Z",
+            "owner": "yangshun",
+            "repo": "front-end-interview-handbook",
+            "stars": 43989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-30T12:03:50Z",
+            "owner": "amejiarosario",
+            "repo": "dsa.js-data-structures-algorithms-javascript",
+            "stars": 7774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: sorting-algorithms-in-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-09T15:31:13Z",
+            "owner": "benoitvallon",
+            "repo": "computer-science-in-javascript",
+            "stars": 2591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Learn-Data_Structure-Algorithm-by-Javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T14:40:20Z",
+            "owner": "Algorithm-archive",
+            "repo": "Learn-Data_Structure-Algorithm-by-Javascript",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Understanding the Theory and the fundamentals of some super-popular Algorithm questions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":link: javascript-interview-questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T11:31:34Z",
+            "owner": "sudheerj",
+            "repo": "javascript-interview-questions",
+            "stars": 27587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: 30-seconds-of-interview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T05:29:51Z",
+            "owner": "Chalarangelo",
+            "repo": "30-seconds-of-interviews",
+            "stars": 12136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: JavaScript-Code-Challenges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-04-01T06:25:55Z",
+            "owner": "sadanandpai",
+            "repo": "javascript-code-challenges",
+            "stars": 4458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: javascript-Exercises",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-03T15:02:39Z",
+            "owner": "kolodny",
+            "repo": "exercises",
+            "stars": 4213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: interview-questions-in-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-30T22:25:26Z",
+            "owner": "kennymkchan",
+            "repo": "interview-questions-in-javascript",
+            "stars": 3622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Cracking the Coding Interview - Javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-05T10:04:44Z",
+            "owner": "careercup",
+            "repo": "CtCI-6th-Edition-JavaScript",
+            "stars": 3153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: js--interview-questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-27T10:52:08Z",
+            "owner": "vvscode",
+            "repo": "js--interview-questions",
+            "stars": 1412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Algorithms-Leetcode-Javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-20T14:36:17Z",
+            "owner": "ignacio-chiazzo",
+            "repo": "Algorithms-Leetcode-Javascript",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Algorithm-in-JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-20T02:18:08Z",
+            "owner": "rohan-paul",
+            "repo": "Algorithm-in-JavaScript",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Javascript-Challenges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T23:54:48Z",
+            "owner": "rohan-paul",
+            "repo": "Javascript-Common-Challenges-Problems",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: code-problems-solutions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-08T04:34:09Z",
+            "owner": "muthu-cs",
+            "repo": "code-problems-solutions",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: JS-Challenges",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Github Repositories with large collections of problems-and-solutions of them most popular Interview challenges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":book: You-Dont-Know-JS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-15T04:36:44Z",
+            "owner": "getify",
+            "repo": "You-Dont-Know-JS",
+            "stars": 184653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Super useful es6-cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-08T07:44:38Z",
+            "owner": "DrkSephy",
+            "repo": "es6-cheatsheet",
+            "stars": 13326
+          }
+        }
+      ],
+      "title": "Other important resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":link: https://github.com/Chalarangelo/30-seconds-of-code",
+          "description": "Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T05:23:45Z",
+            "owner": "Chalarangelo",
+            "repo": "30-seconds-of-code",
+            "stars": 128708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: Many tricky and common javascript-questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-04T16:08:40Z",
+            "owner": "lydiahallie",
+            "repo": "javascript-questions",
+            "stars": 65317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question",
+          "description": "123-Essential-JavaScript-Interview-Question",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-28T11:22:18Z",
+            "owner": "ganqqwerty",
+            "repo": "123-Essential-JavaScript-Interview-Questions",
+            "stars": 5238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":link: https://github.com/ggomaeng/awesome-js",
+          "description": "A curated list of javascript fundamentals and algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-19T23:06:01Z",
+            "owner": "ggomaeng",
+            "repo": "awesome-js",
+            "stars": 388
+          }
+        }
+      ],
+      "title": "More curated list of general resources for JavaScript Interviews"
+    },
+    {
+      "description": "[↑] Back to top",
+      "items": [],
+      "title": "Some useful websites for programmers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "karan/Projects",
+          "description": "a large collection of small projects for beginners with",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-14T19:06:05Z",
+            "owner": "karan",
+            "repo": "Projects",
+            "stars": 47867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vicky002/1000-Projects",
+          "description": "Mega List of practical projects that one can solve in any programming language!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-29T12:29:13Z",
+            "owner": "vicky002",
+            "repo": "1000_Projects",
+            "stars": 2402
+          }
+        }
+      ],
+      "title": "Ideas For small project ideas"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Directory of Online CS Courses",
+          "description": "Free online CS courses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-14T05:38:25Z",
+            "owner": "ossu",
+            "repo": "computer-science",
+            "stars": 207946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb JS Style Guide",
+          "description": "A mostly reasonable approach to JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Directory of CS Courses (many with online lectures)",
+          "description": "Another online CS courses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-04T12:49:34Z",
+            "owner": "prakhar1989",
+            "repo": "awesome-courses",
+            "stars": 70382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular Style Guide",
+          "description": "Officially endorsed style guide by John Pappa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Snippet",
+            "last_commit": "2026-04-30T18:23:12Z",
+            "owner": "johnpapa",
+            "repo": "angular-styleguide",
+            "stars": 23623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby coding style guide",
+          "description": "A community-driven Ruby coding style guide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T10:56:34Z",
+            "owner": "rubocop",
+            "repo": "ruby-style-guide",
+            "stars": 16554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb Ruby Style Guide",
+          "description": "A ruby style guide by Airbnb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-19T06:38:30Z",
+            "owner": "airbnb",
+            "repo": "ruby",
+            "stars": 3891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurelia Style Guide",
+          "description": "An Aurelia style guide by Behzad Abbasi(Behzad888)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-22T07:12:06Z",
+            "owner": "behzad888",
+            "repo": "Aurelia-styleguide",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Coding Style"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github.com/chihungyu1116/leetcode-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-14T07:30:45Z",
+            "owner": "chihungyu1116",
+            "repo": "leetcode-javascript",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/paopao2/leetcode-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-04T00:52:49Z",
+            "owner": "paopao2",
+            "repo": "leetcode-js",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/paopao2/leetcode-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-04T00:52:49Z",
+            "owner": "paopao2",
+            "repo": "leetcode-js",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/dnshi/Leetcode/tree/master/algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-26T08:47:19Z",
+            "owner": "dnshi",
+            "repo": "Leetcode",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/hijiangtao/LeetCode-with-JavaScript/tree/master/src",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-11T09:05:18Z",
+            "owner": "hijiangtao",
+            "repo": "LeetCode-with-JavaScript",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/xiaoyu2er/leetcode-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-05T09:06:32Z",
+            "owner": "xiaoyu2er",
+            "repo": "leetcode-js",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/loatheb/leetcode-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-04T03:27:15Z",
+            "owner": "revan-zhang",
+            "repo": "leetcode-javascript",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/ecmadao/algorithms/tree/master/leetcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-12T04:04:13Z",
+            "owner": "ecmadao",
+            "repo": "algorithms",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/zzxboy1/leetcode/tree/master/algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-04-12T09:17:57Z",
+            "owner": "zzxboy1",
+            "repo": "leetcode",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/theFool32/LeetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-13T01:50:42Z",
+            "owner": "theFool32",
+            "repo": "LeetCode",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/jiangxiaoli/leetcode-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-17T07:48:36Z",
+            "owner": "jiangxiaoli",
+            "repo": "leetcode-javascript",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/MrErHu/Leetcode/tree/master/algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-10T14:23:46Z",
+            "owner": "MrErHu",
+            "repo": "Leetcode",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/EasyHard/leetcodejs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-06T20:21:38Z",
+            "owner": "EasyHard",
+            "repo": "leetcodejs",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/fa-ge/leetcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-02T12:44:36Z",
+            "owner": "fa-ge",
+            "repo": "leetcode",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/AlanWei/LeetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-12T02:12:52Z",
+            "owner": "AlanWei",
+            "repo": "LeetCode",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/ktorng/AlgoInterviewPrep/tree/master/misc/LeetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-11T16:56:02Z",
+            "owner": "ktorng",
+            "repo": "Algos",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/didi0613/leetcode-javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-19T16:31:11Z",
+            "owner": "didi0613",
+            "repo": "leetcode-javascript",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/kpman/leetcode/tree/master/src",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-08T05:36:42Z",
+            "owner": "kpman",
+            "repo": "leetcode",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/bluesh/LeetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-05T03:26:55Z",
+            "owner": "coffeexy",
+            "repo": "LeetCode",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/iwantooxxoox/leetcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-07T05:54:55Z",
+            "owner": "vsyw",
+            "repo": "leetcode",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/KMBaby-zyl/leetcode/tree/master/Algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-05-13T05:45:59Z",
+            "owner": "KMBaby-zyl",
+            "repo": "leetcode",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/zj972/leetcode/tree/master/code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-10-15T01:59:50Z",
+            "owner": "zj972",
+            "repo": "leetcode",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/cs1707/leetcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-23T05:58:39Z",
+            "owner": "cs1707",
+            "repo": "leetcode",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/imcoddy/leetcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-21T09:08:48Z",
+            "owner": "imcoddy",
+            "repo": "leetcode",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/xiaoliwang/leetcode/tree/master/iojs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-22T15:00:40Z",
+            "owner": "xiaoliwang",
+            "repo": "leetcode",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/karenpeng/leetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-23T19:36:50Z",
+            "owner": "karenpeng",
+            "repo": "leetCode",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-24T13:19:45Z",
+            "owner": "LiuL0703",
+            "repo": "algorithm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/whwei/LeetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-11-17T13:02:50Z",
+            "owner": "whwei",
+            "repo": "LeetCode",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/dieface/leetcode/tree/master/javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-08T10:05:17Z",
+            "owner": "dieface",
+            "repo": "leetcode",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/alenny/leetcode/tree/master/src",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-03T09:34:08Z",
+            "owner": "alenny",
+            "repo": "leetcode",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/yuguo/LeetCode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-01T08:35:29Z",
+            "owner": "yuguo",
+            "repo": "LeetCode",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/HandsomeOne/LeetCode/tree/master/Algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-25T02:46:27Z",
+            "owner": "HandsomeOne",
+            "repo": "LeetCode",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/magicly/leetcode/tree/master/js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-09-25T16:02:41Z",
+            "owner": "magicly",
+            "repo": "leetcode",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/LuciferChiu/leetcode/tree/master/solutions",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Collection of Leetcode Problem solution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github.com/careercup/ctci/tree/master/javascript/lib/data-structures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-26T09:01:08Z",
+            "owner": "careercup",
+            "repo": "ctci",
+            "stars": 5137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-29T08:26:56Z",
+            "owner": "rohan-paul",
+            "repo": "Awesome-JavaScript-Interviews",
+            "stars": 3742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-01T19:38:01Z",
+            "owner": "careercup",
+            "repo": "CtCI-6th-Edition-JavaScript-ES2015",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/seemaullal/CrackingTheCodingInterview-JS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-09T03:27:36Z",
+            "owner": "seemaullal",
+            "repo": "CrackingTheCodingInterview-JS",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/ChirpingMermaid/CTCI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-10T02:39:02Z",
+            "owner": "ChirpingMermaid",
+            "repo": "CTCI",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/SashaBayan/CCI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-07-01T05:23:38Z",
+            "owner": "sashakhad",
+            "repo": "CCI",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/ktorng/AlgoInterviewPrep/tree/master/CrackingTheCodingInterview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-11T16:56:02Z",
+            "owner": "ktorng",
+            "repo": "Algos",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/macalinao/node-ctci",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-05T09:32:57Z",
+            "owner": "macalinao",
+            "repo": "node-ctci",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/miguelmota/ctci-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-11-17T06:37:26Z",
+            "owner": "miguelmota",
+            "repo": "ctci-js",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/sharlatta/cracking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-04T09:00:28Z",
+            "owner": "sharlatta",
+            "repo": "cracking",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/ammiranda/CrackingTheCodingInterview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-06-12T00:18:36Z",
+            "owner": "ammiranda",
+            "repo": "CrackingTheCodingInterview",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/bryclee/ctci",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-17T07:29:37Z",
+            "owner": "bryclee",
+            "repo": "ctci",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/rcerf/MyCtci",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-06-26T22:45:54Z",
+            "owner": "rcerf",
+            "repo": "MyCtci",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/muddybarefeet/Cracking-the-Coding-Interview-Problems/tree/master/toyProblems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-20T14:41:19Z",
+            "owner": "muddybarefeet",
+            "repo": "Cracking-the-Coding-Interview-Problems",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com/randy909/coding-interview/tree/master/cracking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-18T14:48:59Z",
+            "owner": "randy909",
+            "repo": "coding-interview",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Collection of Cracking the Coding Interview Book Problem solution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:38:41.640Z",
+    "original_repository": "rohan-paul/Awesome-JavaScript-Interviews",
+    "original_repository_sha": "893557c58670b13867069dbb1c2d3d880b73bf01",
+    "enhanced_repository": "enhansome/enhansome-Awesome-JavaScript-Interviews",
+    "enhanced_repository_description": null,
+    "title": "Awesome JavaScript Interviews with stars"
+  }
+}
