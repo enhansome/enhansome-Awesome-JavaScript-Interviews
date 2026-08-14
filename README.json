@@ -24,7 +24,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 358602
+            "stars": 358716
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196457
+            "stars": 196472
           }
         },
         {
@@ -63,7 +63,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T09:27:28Z",
+            "last_commit": "2026-08-13T15:53:12Z",
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
             "stars": 44729
@@ -80,7 +80,7 @@
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43989
+            "stars": 43987
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2026-08-01T11:31:34Z",
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27587
+            "stars": 27590
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2022-12-09T05:29:51Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12136
+            "stars": 12135
           }
         },
         {
@@ -308,7 +308,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184653
+            "stars": 184667
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-08T05:23:45Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128708
+            "stars": 128722
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65317
+            "stars": 65318
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47867
+            "stars": 47872
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2023-08-29T12:29:13Z",
             "owner": "vicky002",
             "repo": "1000_Projects",
-            "stars": 2402
+            "stars": 2403
           }
         }
       ],
@@ -443,7 +443,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 207946
+            "stars": 207979
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148146
+            "stars": 148156
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70382
+            "stars": 70406
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16554
+            "stars": 16552
           }
         },
         {
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:38:41.640Z",
+    "last_updated": "2026-08-14T12:34:43.525Z",
     "original_repository": "rohan-paul/Awesome-JavaScript-Interviews",
     "original_repository_sha": "893557c58670b13867069dbb1c2d3d880b73bf01",
     "enhanced_repository": "enhansome/enhansome-Awesome-JavaScript-Interviews",
