@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Checkout my Deep Learning | Machine Learning YouTube Channel"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Below are a collection of super-popular Interview questions, along with explanations and implementation examples that I was putting together for myself while preparing for my first Full-Stack JavaScript job interviews."
-    },
-    {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60493101,
             "language": null,
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359113
+            "stars": 359199
           }
         },
         {
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126577260,
             "language": "JavaScript",
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196508
+            "stars": 196522
           }
         },
         {
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3402537,
             "language": "Nunjucks",
             "last_commit": "2026-06-16T23:06:47Z",
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60877
+            "stars": 60873
           }
         },
         {
@@ -62,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135614069,
             "language": "JavaScript",
             "last_commit": "2026-08-18T07:21:33Z",
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44733
+            "stars": 44739
           }
         },
         {
@@ -76,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117372806,
             "language": "JavaScript",
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43989
+            "stars": 43990
           }
         },
         {
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77558427,
             "language": "JavaScript",
             "last_commit": "2024-01-30T12:03:50Z",
             "owner": "amejiarosario",
@@ -104,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51721955,
             "language": "JavaScript",
             "last_commit": "2023-08-09T15:31:13Z",
             "owner": "benoitvallon",
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87450178,
             "language": "JavaScript",
             "last_commit": "2023-01-05T14:40:20Z",
             "owner": "Algorithm-archive",
@@ -129,7 +127,7 @@
       "title": "Understanding the Theory and the fundamentals of some super-popular Algorithm questions"
     },
     {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
           "node_type": "item",
@@ -138,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108708339,
             "language": "JavaScript",
             "last_commit": "2026-08-01T11:31:34Z",
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27599
+            "stars": 27601
           }
         },
         {
@@ -152,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 128564293,
             "language": "JavaScript",
             "last_commit": "2022-12-09T05:29:51Z",
             "owner": "Chalarangelo",
@@ -166,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314557386,
             "language": "MDX",
             "last_commit": "2026-04-01T06:25:55Z",
             "owner": "sadanandpai",
@@ -180,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33951348,
             "language": "JavaScript",
             "last_commit": "2017-10-03T15:02:39Z",
             "owner": "kolodny",
             "repo": "exercises",
-            "stars": 4213
+            "stars": 4214
           }
         },
         {
@@ -194,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53985630,
             "language": null,
             "last_commit": "2019-09-30T22:25:26Z",
             "owner": "kennymkchan",
@@ -208,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51568094,
             "language": "JavaScript",
             "last_commit": "2024-07-05T10:04:44Z",
             "owner": "careercup",
@@ -222,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47930336,
             "language": null,
             "last_commit": "2022-10-27T10:52:08Z",
             "owner": "vvscode",
@@ -236,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152999013,
             "language": "JavaScript",
             "last_commit": "2026-03-20T14:36:17Z",
             "owner": "ignacio-chiazzo",
@@ -250,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115714222,
             "language": "JavaScript",
             "last_commit": "2023-04-20T02:18:08Z",
             "owner": "rohan-paul",
@@ -264,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47140231,
             "language": "JavaScript",
             "last_commit": "2023-01-12T23:54:48Z",
             "owner": "rohan-paul",
@@ -278,58 +286,62 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73146319,
             "language": "JavaScript",
             "last_commit": "2016-11-08T04:34:09Z",
             "owner": "muthu-cs",
             "repo": "code-problems-solutions",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": ":link: JS-Challenges",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Github Repositories with large collections of problems-and-solutions of them most popular Interview challenges"
     },
     {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
-          "node_type": "item",
-          "title": ":book: You-Dont-Know-JS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-15T04:36:44Z",
-            "owner": "getify",
-            "repo": "You-Dont-Know-JS",
-            "stars": 184705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":link: Super useful es6-cheatsheet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-08T07:44:38Z",
-            "owner": "DrkSephy",
-            "repo": "es6-cheatsheet",
-            "stars": 13325
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":book: You-Dont-Know-JS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14440270,
+                "language": null,
+                "last_commit": "2026-02-15T04:36:44Z",
+                "owner": "getify",
+                "repo": "You-Dont-Know-JS",
+                "stars": 184711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":link: Super useful es6-cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50134307,
+                "language": "JavaScript",
+                "last_commit": "2022-10-08T07:44:38Z",
+                "owner": "DrkSephy",
+                "repo": "es6-cheatsheet",
+                "stars": 13324
+              }
+            }
+          ],
+          "description": "[↑] Back to top",
+          "node_type": "group",
+          "title": "Other important resources"
         }
       ],
-      "title": "Other important resources"
+      "title": "Overall multi-factor approach for winning this huge challenge and a great journey of getting the first Developer Job"
     },
     {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
           "node_type": "item",
@@ -338,11 +350,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112507086,
             "language": "JavaScript",
-            "last_commit": "2026-08-08T05:23:45Z",
+            "last_commit": "2026-08-19T06:19:54Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128732
+            "stars": 128744
           }
         },
         {
@@ -352,6 +365,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191529732,
             "language": null,
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
@@ -366,6 +380,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36732731,
             "language": null,
             "last_commit": "2024-06-28T11:22:18Z",
             "owner": "ganqqwerty",
@@ -380,6 +395,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78204739,
             "language": null,
             "last_commit": "2022-09-19T23:06:01Z",
             "owner": "ggomaeng",
@@ -392,11 +408,6 @@
     },
     {
       "description": "[↑] Back to top",
-      "items": [],
-      "title": "Some useful websites for programmers"
-    },
-    {
-      "description": "",
       "items": [
         {
           "node_type": "item",
@@ -405,11 +416,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11177928,
             "language": null,
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47875
+            "stars": 47878
           }
         },
         {
@@ -419,18 +431,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36630042,
             "language": null,
             "last_commit": "2023-08-29T12:29:13Z",
             "owner": "vicky002",
             "repo": "1000_Projects",
-            "stars": 2404
+            "stars": 2403
           }
         }
       ],
       "title": "Ideas For small project ideas"
     },
     {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
           "node_type": "item",
@@ -439,11 +452,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19415064,
             "language": "HTML",
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208108
+            "stars": 208156
           }
         },
         {
@@ -453,11 +467,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6498492,
             "language": "JavaScript",
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148134
+            "stars": 148132
           }
         },
         {
@@ -467,11 +482,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26689598,
             "language": null,
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70487
+            "stars": 70519
           }
         },
         {
@@ -481,6 +497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22362099,
             "language": "Vim Snippet",
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
@@ -495,6 +512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2371106,
             "language": null,
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
@@ -509,6 +527,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7967167,
             "language": "Ruby",
             "last_commit": "2025-12-19T06:38:30Z",
             "owner": "airbnb",
@@ -523,6 +542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45098024,
             "language": null,
             "last_commit": "2017-08-22T07:12:06Z",
             "owner": "behzad888",
@@ -534,7 +554,7 @@
       "title": "Coding Style"
     },
     {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
           "node_type": "item",
@@ -543,6 +563,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39353953,
             "language": "JavaScript",
             "last_commit": "2022-02-14T07:30:45Z",
             "owner": "chihungyu1116",
@@ -557,6 +578,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33469647,
             "language": "JavaScript",
             "last_commit": "2018-03-04T00:52:49Z",
             "owner": "paopao2",
@@ -571,6 +593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33469647,
             "language": "JavaScript",
             "last_commit": "2018-03-04T00:52:49Z",
             "owner": "paopao2",
@@ -585,6 +608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38902966,
             "language": "JavaScript",
             "last_commit": "2023-12-26T08:47:19Z",
             "owner": "dnshi",
@@ -599,6 +623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80979779,
             "language": "JavaScript",
             "last_commit": "2024-01-11T09:05:18Z",
             "owner": "hijiangtao",
@@ -613,6 +638,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84833101,
             "language": "JavaScript",
             "last_commit": "2018-01-05T09:06:32Z",
             "owner": "xiaoyu2er",
@@ -627,6 +653,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74674996,
             "language": "JavaScript",
             "last_commit": "2017-10-04T03:27:15Z",
             "owner": "revan-zhang",
@@ -641,6 +668,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101315166,
             "language": "JavaScript",
             "last_commit": "2022-07-12T04:04:13Z",
             "owner": "ecmadao",
@@ -655,6 +683,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71883308,
             "language": "JavaScript",
             "last_commit": "2018-04-12T09:17:57Z",
             "owner": "zzxboy1",
@@ -669,6 +698,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42583598,
             "language": "JavaScript",
             "last_commit": "2018-09-13T01:50:42Z",
             "owner": "theFool32",
@@ -683,6 +713,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28251842,
             "language": "JavaScript",
             "last_commit": "2015-05-17T07:48:36Z",
             "owner": "jiangxiaoli",
@@ -697,6 +728,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50509735,
             "language": "JavaScript",
             "last_commit": "2018-01-10T14:23:46Z",
             "owner": "MrErHu",
@@ -711,6 +743,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40726507,
             "language": "JavaScript",
             "last_commit": "2015-09-06T20:21:38Z",
             "owner": "EasyHard",
@@ -725,6 +758,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70502367,
             "language": "JavaScript",
             "last_commit": "2021-03-02T12:44:36Z",
             "owner": "fa-ge",
@@ -739,6 +773,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32339982,
             "language": "JavaScript",
             "last_commit": "2021-05-12T02:12:52Z",
             "owner": "AlanWei",
@@ -753,6 +788,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66971815,
             "language": "JavaScript",
             "last_commit": "2020-10-11T16:56:02Z",
             "owner": "ktorng",
@@ -767,6 +803,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58076421,
             "language": "JavaScript",
             "last_commit": "2016-09-19T16:31:11Z",
             "owner": "didi0613",
@@ -781,6 +818,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68455584,
             "language": "JavaScript",
             "last_commit": "2017-07-08T05:36:42Z",
             "owner": "kpman",
@@ -795,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60227952,
             "language": "JavaScript",
             "last_commit": "2019-03-05T03:26:55Z",
             "owner": "coffeexy",
@@ -809,6 +848,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60494581,
             "language": "JavaScript",
             "last_commit": "2017-03-07T05:54:55Z",
             "owner": "vsyw",
@@ -823,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72819829,
             "language": "JavaScript",
             "last_commit": "2018-05-13T05:45:59Z",
             "owner": "KMBaby-zyl",
@@ -837,6 +878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59075529,
             "language": "Go",
             "last_commit": "2018-10-15T01:59:50Z",
             "owner": "zj972",
@@ -851,6 +893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54311587,
             "language": "JavaScript",
             "last_commit": "2016-09-23T05:58:39Z",
             "owner": "cs1707",
@@ -865,6 +908,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34941773,
             "language": "JavaScript",
             "last_commit": "2015-11-21T09:08:48Z",
             "owner": "imcoddy",
@@ -879,6 +923,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39190569,
             "language": "JavaScript",
             "last_commit": "2016-02-22T15:00:40Z",
             "owner": "xiaoliwang",
@@ -893,6 +938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42327708,
             "language": "JavaScript",
             "last_commit": "2016-02-23T19:36:50Z",
             "owner": "karenpeng",
@@ -907,6 +953,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84938453,
             "language": "JavaScript",
             "last_commit": "2020-03-24T13:19:45Z",
             "owner": "LiuL0703",
@@ -921,6 +968,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34372394,
             "language": "JavaScript",
             "last_commit": "2015-11-17T13:02:50Z",
             "owner": "whwei",
@@ -935,6 +983,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59421012,
             "language": "JavaScript",
             "last_commit": "2016-06-08T10:05:17Z",
             "owner": "dieface",
@@ -949,6 +998,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67630515,
             "language": "JavaScript",
             "last_commit": "2018-08-03T09:34:08Z",
             "owner": "alenny",
@@ -963,6 +1013,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70672944,
             "language": "JavaScript",
             "last_commit": "2017-06-01T08:35:29Z",
             "owner": "yuguo",
@@ -977,6 +1028,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54953718,
             "language": "JavaScript",
             "last_commit": "2016-10-25T02:46:27Z",
             "owner": "HandsomeOne",
@@ -991,24 +1043,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74423024,
             "language": "JavaScript",
             "last_commit": "2019-09-25T16:02:41Z",
             "owner": "magicly",
             "repo": "leetcode",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "github.com/LuciferChiu/leetcode/tree/master/solutions",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Collection of Leetcode Problem solution"
     },
     {
-      "description": "",
+      "description": "[↑] Back to top",
       "items": [
         {
           "node_type": "item",
@@ -1017,6 +1064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8940534,
             "language": "Java",
             "last_commit": "2023-06-26T09:01:08Z",
             "owner": "careercup",
@@ -1031,6 +1079,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127305987,
             "language": "JavaScript",
             "last_commit": "2024-02-29T08:26:56Z",
             "owner": "rohan-paul",
@@ -1045,6 +1094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52219292,
             "language": "JavaScript",
             "last_commit": "2022-12-01T19:38:01Z",
             "owner": "careercup",
@@ -1059,6 +1109,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33777261,
             "language": "JavaScript",
             "last_commit": "2024-11-09T03:27:36Z",
             "owner": "seemaullal",
@@ -1073,6 +1124,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143702703,
             "language": "JavaScript",
             "last_commit": "2018-08-10T02:39:02Z",
             "owner": "ChirpingMermaid",
@@ -1087,6 +1139,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34276794,
             "language": "JavaScript",
             "last_commit": "2015-07-01T05:23:38Z",
             "owner": "sashakhad",
@@ -1101,6 +1154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66971815,
             "language": "JavaScript",
             "last_commit": "2020-10-11T16:56:02Z",
             "owner": "ktorng",
@@ -1115,6 +1169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29075444,
             "language": "JavaScript",
             "last_commit": "2015-08-05T09:32:57Z",
             "owner": "macalinao",
@@ -1129,6 +1184,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46327842,
             "language": "JavaScript",
             "last_commit": "2015-11-17T06:37:26Z",
             "owner": "miguelmota",
@@ -1143,6 +1199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41797830,
             "language": "JavaScript",
             "last_commit": "2016-10-04T09:00:28Z",
             "owner": "sharlatta",
@@ -1157,6 +1214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20666172,
             "language": "JavaScript",
             "last_commit": "2014-06-12T00:18:36Z",
             "owner": "ammiranda",
@@ -1171,6 +1229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37877807,
             "language": "JavaScript",
             "last_commit": "2015-08-17T07:29:37Z",
             "owner": "bryclee",
@@ -1185,6 +1244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21222890,
             "language": "JavaScript",
             "last_commit": "2014-06-26T22:45:54Z",
             "owner": "rcerf",
@@ -1199,6 +1259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49527272,
             "language": "JavaScript",
             "last_commit": "2016-04-20T14:41:19Z",
             "owner": "muddybarefeet",
@@ -1213,6 +1274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13836128,
             "language": "JavaScript",
             "last_commit": "2016-12-18T14:48:59Z",
             "owner": "randy909",
@@ -1225,8 +1287,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:17:45.298Z",
+    "last_updated": "2026-08-19T12:10:14.173Z",
     "original_repository": "rohan-paul/Awesome-JavaScript-Interviews",
+    "original_repository_id": 127305987,
     "original_repository_sha": "893557c58670b13867069dbb1c2d3d880b73bf01",
     "enhanced_repository": "enhansome/enhansome-Awesome-JavaScript-Interviews",
     "enhanced_repository_description": null,
