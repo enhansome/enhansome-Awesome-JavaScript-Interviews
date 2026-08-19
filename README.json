@@ -141,7 +141,7 @@
             "last_commit": "2026-08-01T11:31:34Z",
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27601
+            "stars": 27602
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47878
+            "stars": 47879
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208156
+            "stars": 208157
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23621
+            "stars": 23620
           }
         },
         {
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:14.173Z",
+    "last_updated": "2026-08-19T12:28:37.535Z",
     "original_repository": "rohan-paul/Awesome-JavaScript-Interviews",
     "original_repository_id": 127305987,
     "original_repository_sha": "893557c58670b13867069dbb1c2d3d880b73bf01",
