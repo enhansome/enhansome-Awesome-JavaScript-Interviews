@@ -555,10 +555,10 @@
 
 ## Understanding the Theory and the fundamentals of some super-popular Algorithm questions
 
-* :link: [coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 359,615 | 🐛 125 | 📅 2025-08-28
-* :link: [best javascript-algorithms github repo](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,547 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26
+* :link: [coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 359,617 | 🐛 125 | 📅 2025-08-28
+* :link: [best javascript-algorithms github repo](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,546 | 🐛 405 | 🌐 JavaScript | 📅 2026-07-26
 * :link: [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐ 60,871 | 🐛 63 | 🌐 Nunjucks | 📅 2026-06-16
-* :link: [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,752 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-20
+* :link: [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,751 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-20
 * :link: [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) ⭐ 43,994 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-13 - Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
 * :link: <https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript> ⭐ 7,774 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-30
 * :link: [sorting-algorithms-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript) ⭐ 2,589 | 🐛 16 | 🌐 JavaScript | 📅 2023-08-09
@@ -676,9 +676,9 @@
 
 ## More curated list of general resources for JavaScript Interviews
 
-* :link: <https://github.com/Chalarangelo/30-seconds-of-code> ⭐ 128,809 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+* :link: <https://github.com/Chalarangelo/30-seconds-of-code> ⭐ 128,810 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
-* :link: [Many tricky and common javascript-questions](https://github.com/lydiahallie/javascript-questions) ⭐ 65,324 | 🐛 54 | 📅 2024-08-04
+* :link: [Many tricky and common javascript-questions](https://github.com/lydiahallie/javascript-questions) ⭐ 65,323 | 🐛 54 | 📅 2024-08-04
 
 * :link: [https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) ⭐ 5,239 | 🐛 22 | 📅 2024-06-28 - 123-Essential-JavaScript-Interview-Question
 
@@ -929,7 +929,7 @@
 
 * [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 208,380 | 🐛 25 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
 * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,132 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
-* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 70,628 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
+* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 70,632 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,616 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
 * [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,550 | 🐛 74 | 📅 2026-07-20 : A community-driven Ruby coding style guide
 * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) ⭐ 3,891 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19 : A ruby style guide by Airbnb
@@ -1026,6 +1026,7 @@
 
 ## System-Design related topics-Some very useful articles
 
+* [The CAP FAQ](https://github.com/henryr/cap-faq) ⭐ 860 | 🐛 6 | 📅 2023-07-14
 * [System Interview](http://www.hiredintech.com/app#system-design)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
@@ -1034,7 +1035,6 @@
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
-* [The CAP FAQ](https://github.com/henryr/cap-faq) ⭐ 860 | 🐛 6 | 📅 2023-07-14
 * [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
@@ -1053,8 +1053,8 @@
 
 **Design a random ID generation system**
 
-* [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake)
 * [snowflake](https://github.com/twitter/snowflake/) ⚠️ Archived
+* [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake)
 
 [\[↑\] Back to top](#table-of-contents-of-this-readme-file)
 
