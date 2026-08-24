@@ -15,7 +15,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359527
+            "stars": 359615
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196537
+            "stars": 196547
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-16T23:06:47Z",
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60869
+            "stars": 60871
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-20T05:50:04Z",
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44747
+            "stars": 44752
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43991
+            "stars": 43994
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-20T16:41:55Z",
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27608
+            "stars": 27611
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2022-10-27T10:52:08Z",
             "owner": "vvscode",
             "repo": "js--interview-questions",
-            "stars": 1413
+            "stars": 1414
           }
         },
         {
@@ -314,7 +314,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184716
+                "stars": 184718
               }
             },
             {
@@ -355,7 +355,7 @@
             "last_commit": "2026-08-19T06:19:54Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128795
+            "stars": 128809
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65322
+            "stars": 65324
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2024-06-28T11:22:18Z",
             "owner": "ganqqwerty",
             "repo": "123-Essential-JavaScript-Interview-Questions",
-            "stars": 5238
+            "stars": 5239
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47885
+            "stars": 47887
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208342
+            "stars": 208380
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148132
           }
         },
         {
@@ -487,7 +487,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70610
+            "stars": 70628
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23618
+            "stars": 23616
           }
         },
         {
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:13:24.731Z",
+    "last_updated": "2026-08-24T12:20:07.891Z",
     "original_repository": "rohan-paul/Awesome-JavaScript-Interviews",
     "original_repository_id": 127305987,
     "original_repository_sha": "893557c58670b13867069dbb1c2d3d880b73bf01",
