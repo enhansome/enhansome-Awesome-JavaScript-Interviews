@@ -15,8 +15,9 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359846
-          }
+            "stars": 359913
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196572
-          }
+            "stars": 196575
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-06-16T23:06:47Z",
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60869
-          }
+            "stars": 60871
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 135614069,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T06:04:17Z",
+            "last_commit": "2026-08-28T13:37:15Z",
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44759
-          }
+            "stars": 44763
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43996
-          }
+            "stars": 44000
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "amejiarosario",
             "repo": "dsa.js-data-structures-algorithms-javascript",
             "stars": 7776
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "benoitvallon",
             "repo": "computer-science-in-javascript",
             "stars": 2590
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Algorithm-archive",
             "repo": "Learn-Data_Structure-Algorithm-by-Javascript",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "Understanding the Theory and the fundamentals of some super-popular Algorithm questions"
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-20T16:41:55Z",
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27621
-          }
+            "stars": 27618
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
             "stars": 12129
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-04-01T06:25:55Z",
             "owner": "sadanandpai",
             "repo": "javascript-code-challenges",
-            "stars": 4461
-          }
+            "stars": 4463
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "kolodny",
             "repo": "exercises",
             "stars": 4214
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "kennymkchan",
             "repo": "interview-questions-in-javascript",
             "stars": 3622
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "careercup",
             "repo": "CtCI-6th-Edition-JavaScript",
             "stars": 3153
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "vvscode",
             "repo": "js--interview-questions",
             "stars": 1414
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "ignacio-chiazzo",
             "repo": "Algorithms-Leetcode-Javascript",
             "stars": 754
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "rohan-paul",
             "repo": "Algorithm-in-JavaScript",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "rohan-paul",
             "repo": "Javascript-Common-Challenges-Problems",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "muthu-cs",
             "repo": "code-problems-solutions",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "Github Repositories with large collections of problems-and-solutions of them most popular Interview challenges"
@@ -314,8 +333,9 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184743
-              }
+                "stars": 184748
+              },
+              "first_seen": "2026-08-28T21:33:07.101Z"
             },
             {
               "node_type": "item",
@@ -329,8 +349,9 @@
                 "last_commit": "2022-10-08T07:44:38Z",
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13324
-              }
+                "stars": 13323
+              },
+              "first_seen": "2026-08-28T21:33:07.101Z"
             }
           ],
           "description": null,
@@ -355,8 +376,9 @@
             "last_commit": "2026-08-19T06:19:54Z",
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128841
-          }
+            "stars": 128848
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -370,8 +392,9 @@
             "last_commit": "2024-08-04T16:08:40Z",
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65326
-          }
+            "stars": 65328
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -386,7 +409,8 @@
             "owner": "ganqqwerty",
             "repo": "123-Essential-JavaScript-Interview-Questions",
             "stars": 5240
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -401,7 +425,8 @@
             "owner": "ggomaeng",
             "repo": "awesome-js",
             "stars": 388
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "More curated list of general resources for JavaScript Interviews"
@@ -421,8 +446,9 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47896
-          }
+            "stars": 47897
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -436,8 +462,9 @@
             "last_commit": "2023-08-29T12:29:13Z",
             "owner": "vicky002",
             "repo": "1000_Projects",
-            "stars": 2405
-          }
+            "stars": 2406
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "Ideas For small project ideas"
@@ -457,8 +484,9 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208471
-          }
+            "stars": 208479
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -472,8 +500,9 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148141
-          }
+            "stars": 148143
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -487,8 +516,9 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70700
-          }
+            "stars": 70720
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -503,7 +533,8 @@
             "owner": "johnpapa",
             "repo": "angular-styleguide",
             "stars": 23616
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -518,7 +549,8 @@
             "owner": "rubocop",
             "repo": "ruby-style-guide",
             "stars": 16548
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -533,7 +565,8 @@
             "owner": "airbnb",
             "repo": "ruby",
             "stars": 3892
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -548,7 +581,8 @@
             "owner": "behzad888",
             "repo": "Aurelia-styleguide",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "Coding Style"
@@ -569,7 +603,8 @@
             "owner": "chihungyu1116",
             "repo": "leetcode-javascript",
             "stars": 841
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -584,7 +619,8 @@
             "owner": "paopao2",
             "repo": "leetcode-js",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -599,7 +635,8 @@
             "owner": "paopao2",
             "repo": "leetcode-js",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -614,7 +651,8 @@
             "owner": "dnshi",
             "repo": "Leetcode",
             "stars": 266
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -629,7 +667,8 @@
             "owner": "hijiangtao",
             "repo": "LeetCode-with-JavaScript",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -644,7 +683,8 @@
             "owner": "xiaoyu2er",
             "repo": "leetcode-js",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -659,7 +699,8 @@
             "owner": "revan-zhang",
             "repo": "leetcode-javascript",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -674,7 +715,8 @@
             "owner": "ecmadao",
             "repo": "algorithms",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -689,7 +731,8 @@
             "owner": "zzxboy1",
             "repo": "leetcode",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -704,7 +747,8 @@
             "owner": "theFool32",
             "repo": "LeetCode",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -719,7 +763,8 @@
             "owner": "jiangxiaoli",
             "repo": "leetcode-javascript",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -734,7 +779,8 @@
             "owner": "MrErHu",
             "repo": "Leetcode",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -749,7 +795,8 @@
             "owner": "EasyHard",
             "repo": "leetcodejs",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -764,7 +811,8 @@
             "owner": "fa-ge",
             "repo": "leetcode",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -779,7 +827,8 @@
             "owner": "AlanWei",
             "repo": "LeetCode",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -794,7 +843,8 @@
             "owner": "ktorng",
             "repo": "Algos",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -809,7 +859,8 @@
             "owner": "didi0613",
             "repo": "leetcode-javascript",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -824,7 +875,8 @@
             "owner": "kpman",
             "repo": "leetcode",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -839,7 +891,8 @@
             "owner": "coffeexy",
             "repo": "LeetCode",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -854,7 +907,8 @@
             "owner": "vsyw",
             "repo": "leetcode",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -869,7 +923,8 @@
             "owner": "KMBaby-zyl",
             "repo": "leetcode",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -884,7 +939,8 @@
             "owner": "zj972",
             "repo": "leetcode",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -899,7 +955,8 @@
             "owner": "cs1707",
             "repo": "leetcode",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -914,7 +971,8 @@
             "owner": "imcoddy",
             "repo": "leetcode",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -929,7 +987,8 @@
             "owner": "xiaoliwang",
             "repo": "leetcode",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -944,7 +1003,8 @@
             "owner": "karenpeng",
             "repo": "leetCode",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -959,7 +1019,8 @@
             "owner": "LiuL0703",
             "repo": "algorithm",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -974,7 +1035,8 @@
             "owner": "whwei",
             "repo": "LeetCode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -989,7 +1051,8 @@
             "owner": "dieface",
             "repo": "leetcode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1004,7 +1067,8 @@
             "owner": "alenny",
             "repo": "leetcode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1019,7 +1083,8 @@
             "owner": "yuguo",
             "repo": "LeetCode",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1034,7 +1099,8 @@
             "owner": "HandsomeOne",
             "repo": "LeetCode",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1049,7 +1115,8 @@
             "owner": "magicly",
             "repo": "leetcode",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "Collection of Leetcode Problem solution"
@@ -1069,8 +1136,9 @@
             "last_commit": "2023-06-26T09:01:08Z",
             "owner": "careercup",
             "repo": "ctci",
-            "stars": 5136
-          }
+            "stars": 5137
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1085,7 +1153,8 @@
             "owner": "rohan-paul",
             "repo": "Awesome-JavaScript-Interviews",
             "stars": 3742
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1100,7 +1169,8 @@
             "owner": "careercup",
             "repo": "CtCI-6th-Edition-JavaScript-ES2015",
             "stars": 836
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1115,7 +1185,8 @@
             "owner": "seemaullal",
             "repo": "CrackingTheCodingInterview-JS",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1130,7 +1201,8 @@
             "owner": "ChirpingMermaid",
             "repo": "CTCI",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1145,7 +1217,8 @@
             "owner": "sashakhad",
             "repo": "CCI",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1160,7 +1233,8 @@
             "owner": "ktorng",
             "repo": "Algos",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1175,7 +1249,8 @@
             "owner": "macalinao",
             "repo": "node-ctci",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1190,7 +1265,8 @@
             "owner": "miguelmota",
             "repo": "ctci-js",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1205,7 +1281,8 @@
             "owner": "sharlatta",
             "repo": "cracking",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1220,7 +1297,8 @@
             "owner": "ammiranda",
             "repo": "CrackingTheCodingInterview",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1235,7 +1313,8 @@
             "owner": "bryclee",
             "repo": "ctci",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1250,7 +1329,8 @@
             "owner": "rcerf",
             "repo": "MyCtci",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1265,7 +1345,8 @@
             "owner": "muddybarefeet",
             "repo": "Cracking-the-Coding-Interview-Problems",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1280,7 +1361,8 @@
             "owner": "randy909",
             "repo": "coding-interview",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "Collection of Cracking the Coding Interview Book Problem solution"
@@ -1301,7 +1383,8 @@
             "owner": "henryr",
             "repo": "cap-faq",
             "stars": 860
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         },
         {
           "node_type": "item",
@@ -1316,14 +1399,15 @@
             "owner": "twitter-archive",
             "repo": "snowflake",
             "stars": 7766
-          }
+          },
+          "first_seen": "2026-08-28T21:33:07.101Z"
         }
       ],
       "title": "System-Design related topics-Some very useful articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:21:00.062Z",
+    "last_updated": "2026-08-28T21:33:07.101Z",
     "original_repository_info": {
       "archived": false,
       "id": 127305987,
