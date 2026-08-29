@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete computer science study plan to become a software engineer.",
+            "homepage": null,
             "id": 60493101,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2025-08-28T14:42:47Z",
+            "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359913
+            "stars": 359922,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "coding-interview",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-prep",
+              "interview-preparation",
+              "programming-interviews",
+              "software-engineering",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -26,12 +44,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "homepage": null,
             "id": 126577260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
+            "open_issues": 404,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196575
+            "stars": 196577,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "computer-science",
+              "data-structures",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "javascript-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -42,12 +74,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+            "homepage": "https://h5bp.org/Front-end-Developer-Interview-Questions/",
             "id": 3402537,
             "language": "Nunjucks",
+            "license": "MIT",
             "last_commit": "2026-06-16T23:06:47Z",
+            "open_issues": 63,
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60871
+            "stars": 60872,
+            "topics": [
+              "css-questions",
+              "front-end",
+              "html-questions",
+              "interview-questions",
+              "interview-test",
+              "js-questions"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -58,12 +102,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+            "homepage": null,
             "id": 135614069,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:37:15Z",
+            "open_issues": 11,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44763
+            "stars": 44763,
+            "topics": [
+              "interview-preparation",
+              "interview-questions",
+              "javascript",
+              "javascript-applications",
+              "javascript-framework",
+              "javascript-interview-questions",
+              "react",
+              "react-interview-questions",
+              "react-native",
+              "react-router",
+              "react16",
+              "reactjs",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -74,12 +137,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front End interview preparation materials for busy engineers (updated for 2026)",
+            "homepage": "https://frontendinterviewhandbook.com",
             "id": 117372806,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T08:25:31Z",
+            "open_issues": 11,
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 44000
+            "stars": 44001,
+            "topics": [
+              "css",
+              "css-questions",
+              "front-end",
+              "front-end-development",
+              "front-end-interview",
+              "front-end-system-design",
+              "html",
+              "html-questions",
+              "interview",
+              "interview-preparation",
+              "interview-questions",
+              "interview-test",
+              "javascript",
+              "js-questions",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -90,12 +174,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook",
+            "homepage": "https://books.adrianmejia.com",
             "id": 77558427,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-30T12:03:50Z",
+            "open_issues": 8,
             "owner": "amejiarosario",
             "repo": "dsa.js-data-structures-algorithms-javascript",
-            "stars": 7776
+            "stars": 7776,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "book",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "graph",
+              "heap",
+              "javascript",
+              "javascript-algorithms",
+              "search",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -106,12 +208,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computer science reimplemented in JavaScript",
+            "homepage": null,
             "id": 51721955,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-09T15:31:13Z",
+            "open_issues": 16,
             "owner": "benoitvallon",
             "repo": "computer-science-in-javascript",
-            "stars": 2590
+            "stars": 2590,
+            "topics": [
+              "computer-science",
+              "data-structures",
+              "javascript",
+              "list",
+              "sorting-algorithms",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -122,12 +236,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Structure and Algorithm explanations with Implementations by Javascript",
+            "homepage": null,
             "id": 87450178,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-05T14:40:20Z",
+            "open_issues": 1,
             "owner": "Algorithm-archive",
             "repo": "Learn-Data_Structure-Algorithm-by-Javascript",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "algorithms",
+              "data-structures",
+              "graph-algorithms",
+              "javascript",
+              "searching-algorithms",
+              "sorting-algorithms"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -144,12 +270,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of 1000 JavaScript Interview Questions",
+            "homepage": null,
             "id": 108708339,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-20T16:41:55Z",
+            "open_issues": 20,
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27618
+            "stars": 27618,
+            "topics": [
+              "angular",
+              "core-javascript",
+              "javascript",
+              "javascript-applications",
+              "javascript-interview-questions",
+              "react",
+              "vanilla-javascript",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -160,12 +300,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated collection of common interview questions to help you prepare for your next interview.",
+            "homepage": "https://30secondsofinterviews.org",
             "id": 128564293,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T05:29:51Z",
+            "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12129
+            "stars": 12129,
+            "topics": [
+              "awesome-list",
+              "css",
+              "education",
+              "html",
+              "interview",
+              "interview-questions",
+              "javascript",
+              "learn-to-code",
+              "learning-resources",
+              "snippets",
+              "snippets-collection"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -176,12 +333,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of JavaScript modern interview code challenges for beginners to experts",
+            "homepage": "https://jscodechallenges.vercel.app",
             "id": 314557386,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-04-01T06:25:55Z",
+            "open_issues": 3,
             "owner": "sadanandpai",
             "repo": "javascript-code-challenges",
-            "stars": 4463
+            "stars": 4463,
+            "topics": [
+              "challenges",
+              "coding-interview",
+              "frontend",
+              "frontend-challenge",
+              "frontend-development",
+              "frontend-framework",
+              "hacktoberfest",
+              "interview-preparation",
+              "interview-questions",
+              "interviewers",
+              "javascript",
+              "javascript-challenges",
+              "javascript-interview",
+              "javascript-interview-questions",
+              "javascript-modern-interview",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -192,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some basic javascript coding challenges and interview questions",
+            "homepage": null,
             "id": 33951348,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-03T15:02:39Z",
+            "open_issues": 10,
             "owner": "kolodny",
             "repo": "exercises",
-            "stars": 4214
+            "stars": 4214,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -208,12 +392,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mostly reasonable collection of technical software development interview questions solved in Javascript",
+            "homepage": null,
             "id": 53985630,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-09-30T22:25:26Z",
+            "open_issues": 4,
             "owner": "kennymkchan",
             "repo": "interview-questions-in-javascript",
-            "stars": 3622
+            "stars": 3622,
+            "topics": [
+              "array",
+              "interview-practice",
+              "interview-questions",
+              "interviews",
+              "javascript",
+              "recursion",
+              "stack",
+              "strings"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -224,12 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the Coding Interview 6th Ed. JavaScript Solutions",
+            "homepage": null,
             "id": 51568094,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-07-05T10:04:44Z",
+            "open_issues": 46,
             "owner": "careercup",
             "repo": "CtCI-6th-Edition-JavaScript",
-            "stars": 3153
+            "stars": 3153,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -240,12 +443,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":grey_question::question::grey_question: Notes from technical (javascript) interviews. Tasks and quiz for different topics to discuss on interview / check self skills in javascript",
+            "homepage": null,
             "id": 47930336,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-27T10:52:08Z",
+            "open_issues": 3,
             "owner": "vvscode",
             "repo": "js--interview-questions",
-            "stars": 1414
+            "stars": 1414,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2020",
+              "interview",
+              "interview-preparation",
+              "interview-questions",
+              "javascript",
+              "javascript-interview",
+              "javascript-interview-question",
+              "javascript-interview-questions",
+              "job-interviews",
+              "js-interview-questions",
+              "js-interviews"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -256,12 +477,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms resolution in Javascript. Leetcode - Geeksforgeeks - Careercup",
+            "homepage": "https://ignacio-chiazzo.github.io/Algorithms-Leetcode-Javascript/",
             "id": 152999013,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-20T14:36:17Z",
+            "open_issues": 10,
             "owner": "ignacio-chiazzo",
             "repo": "Algorithms-Leetcode-Javascript",
-            "stars": 754
+            "stars": 754,
+            "topics": [
+              "algorithms",
+              "algortithms",
+              "coding-interviews",
+              "computer-science",
+              "data-structures",
+              "hackoctoberfest",
+              "hackoctoberfest2022",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "interview",
+              "interview-preparation",
+              "interview-questions",
+              "javascript",
+              "leetcode",
+              "leetcode-javascript",
+              "leetcode-solutions",
+              "problem-solving",
+              "problemsolving",
+              "programming-interviews",
+              "study-plan"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -272,12 +519,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementing all-time classic algorithmic problems in JS",
+            "homepage": null,
             "id": 115714222,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-20T02:18:08Z",
+            "open_issues": 3,
             "owner": "rohan-paul",
             "repo": "Algorithm-in-JavaScript",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "algorithm-analysis",
+              "algorithm-challenges",
+              "algorithms",
+              "algorithms-and-data-structures",
+              "algorithms-implemented",
+              "algorithms-python",
+              "javascript",
+              "python",
+              "python-3",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -288,12 +551,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Day to Day Challenges/Techniques in JavaScript/Python",
+            "homepage": null,
             "id": 47140231,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-12T23:54:48Z",
+            "open_issues": 15,
             "owner": "rohan-paul",
             "repo": "Javascript-Common-Challenges-Problems",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "algorithms",
+              "algorithms-and-data-structures",
+              "interview-questions",
+              "javascript",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -304,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interview coding questions and answers in Javascript - ES6",
+            "homepage": null,
             "id": 73146319,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-08T04:34:09Z",
+            "open_issues": 0,
             "owner": "muthu-cs",
             "repo": "code-problems-solutions",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -328,12 +607,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A book series (2 published editions) on the JS language.",
+                "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                 "id": 14440270,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-15T04:36:44Z",
+                "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184748
+                "stars": 184748,
+                "topics": [
+                  "async",
+                  "book",
+                  "book-series",
+                  "closures",
+                  "education",
+                  "es2015",
+                  "es6",
+                  "javascript",
+                  "learn-to-code",
+                  "programming",
+                  "prototypes",
+                  "training-materials",
+                  "training-providers"
+                ]
               },
               "first_seen": "2026-08-28T21:33:07.101Z"
             },
@@ -344,12 +642,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets",
+                "homepage": "http://slides.com/drksephy/ecmascript-2015",
                 "id": 50134307,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-08T07:44:38Z",
+                "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13323
+                "stars": 13322,
+                "topics": [
+                  "cheatsheet",
+                  "es6-javascript",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T21:33:07.101Z"
             }
@@ -371,12 +678,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coding articles to level up your development skills",
+            "homepage": "https://30secondsofcode.org/",
             "id": 112507086,
             "language": "JavaScript",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-19T06:19:54Z",
+            "open_issues": 0,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 128848
+            "stars": 128850,
+            "topics": [
+              "astro",
+              "awesome-list",
+              "css",
+              "education",
+              "es6-javascript",
+              "git",
+              "html",
+              "javascript",
+              "learn-to-code",
+              "learning-resources",
+              "nodejs",
+              "programming",
+              "snippets"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -387,12 +713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A long list of (advanced) JavaScript questions, and their explanations :sparkles:  ",
+            "homepage": null,
             "id": 191529732,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-04T16:08:40Z",
+            "open_issues": 53,
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65328
+            "stars": 65327,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -403,12 +734,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript interview Questions",
+            "homepage": null,
             "id": 36732731,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2024-06-28T11:22:18Z",
+            "open_issues": 22,
             "owner": "ganqqwerty",
             "repo": "123-Essential-JavaScript-Interview-Questions",
-            "stars": 5240
+            "stars": 5240,
+            "topics": [
+              "coding-challenge",
+              "coding-interview",
+              "coding-interviews",
+              "frontend-interview",
+              "inherited-properties",
+              "interview-questions",
+              "javascript",
+              "javascript-functions",
+              "javascript-interview-question",
+              "referenceerror"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -419,12 +766,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦄  A curated list of javascript fundamentals and algorithms",
+            "homepage": null,
             "id": 78204739,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-19T23:06:01Z",
+            "open_issues": 3,
             "owner": "ggomaeng",
             "repo": "awesome-js",
-            "stars": 388
+            "stars": 388,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -441,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":page_with_curl: A list of practical projects that anyone can solve in any programming language.",
+            "homepage": "https://twitter.com/karangoel",
             "id": 11177928,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-14T19:06:05Z",
+            "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47897
+            "stars": 47897,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -457,12 +814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :sunglasses: Mega List of practical projects that one can solve in any programming language! ",
+            "homepage": "http://vicky002.github.io/1000_Projects",
             "id": 36630042,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-08-29T12:29:13Z",
+            "open_issues": 6,
             "owner": "vicky002",
             "repo": "1000_Projects",
-            "stars": 2406
+            "stars": 2406,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -479,12 +841,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "homepage": "https://cs.ossu.dev",
             "id": 19415064,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:38:25Z",
+            "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208479
+            "stars": 208489,
+            "topics": [
+              "awesome-list",
+              "computer-science",
+              "courses",
+              "curriculum"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -495,12 +867,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148143
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -511,12 +903,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: List of awesome university courses for learning Computer Science!",
+            "homepage": null,
             "id": 26689598,
             "language": null,
+            "license": null,
             "last_commit": "2023-05-04T12:49:34Z",
+            "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70720
+            "stars": 70729,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-science",
+              "courses"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -527,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.",
+            "homepage": "http://johnpapa.net",
             "id": 22362099,
             "language": "Vim Snippet",
+            "license": "MIT",
             "last_commit": "2026-04-30T18:23:12Z",
+            "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23616
+            "stars": 23617,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -543,12 +950,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-driven Ruby coding style guide",
+            "homepage": "https://rubystyle.guide",
             "id": 2371106,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-20T10:56:34Z",
+            "open_issues": 74,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548
+            "stars": 16548,
+            "topics": [
+              "rubocop",
+              "ruby",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -559,12 +975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby Style Guide",
+            "homepage": null,
             "id": 7967167,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-19T06:38:30Z",
+            "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3892
+            "stars": 3892,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -575,12 +996,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aurelia Style Guide: A starting point for Aurelia development teams to provide consistency through best practices. http://aurelia.io",
+            "homepage": null,
             "id": 45098024,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-22T07:12:06Z",
+            "open_issues": 0,
             "owner": "behzad888",
             "repo": "Aurelia-styleguide",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "aurelia",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -597,12 +1026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leetcode Solution using Javascript",
+            "homepage": null,
             "id": 39353953,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-14T07:30:45Z",
+            "open_issues": 9,
             "owner": "chihungyu1116",
             "repo": "leetcode-javascript",
-            "stars": 841
+            "stars": 841,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -613,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript solutions for Leetcode problems",
+            "homepage": null,
             "id": 33469647,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-04T00:52:49Z",
+            "open_issues": 1,
             "owner": "paopao2",
             "repo": "leetcode-js",
-            "stars": 404
+            "stars": 404,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -629,12 +1068,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript solutions for Leetcode problems",
+            "homepage": null,
             "id": 33469647,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-04T00:52:49Z",
+            "open_issues": 1,
             "owner": "paopao2",
             "repo": "leetcode-js",
-            "stars": 404
+            "stars": 404,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -645,12 +1089,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leetcode problems & solutions",
+            "homepage": null,
             "id": 38902966,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-26T08:47:19Z",
+            "open_issues": 0,
             "owner": "dnshi",
             "repo": "Leetcode",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "algorithms",
+              "datastructures",
+              "javascript",
+              "leetcode",
+              "solutions"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -661,12 +1116,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solutions collection of LeetCode submissions in JavaScript & TypeScript (LeetCode 解题集之 JavaScript & TypeScript 版)",
+            "homepage": null,
             "id": 80979779,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-11T09:05:18Z",
+            "open_issues": 1,
             "owner": "hijiangtao",
             "repo": "LeetCode-with-JavaScript",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "javascript",
+              "leetcode",
+              "leetcode-javascript",
+              "leetcode-solutions",
+              "leetcode-typescript",
+              "online-judge",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -677,12 +1145,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用 JS 刷 LeetCode",
+            "homepage": null,
             "id": 84833101,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-05T09:06:32Z",
+            "open_issues": 0,
             "owner": "xiaoyu2er",
             "repo": "leetcode-js",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "algorithm",
+              "javascript",
+              "leetcode",
+              "leetcode-javascript",
+              "leetcode-solutions"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -693,12 +1172,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":spider::spider: Leetcode Solutions written in javascript",
+            "homepage": null,
             "id": 74674996,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-04T03:27:15Z",
+            "open_issues": 2,
             "owner": "revan-zhang",
             "repo": "leetcode-javascript",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "javascript",
+              "leetcode",
+              "leetcode-solutions"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -709,12 +1197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms notes & LeetCode/Codewars solutions by Node.js, Swift and Haskell",
+            "homepage": null,
             "id": 101315166,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-07-12T04:04:13Z",
+            "open_issues": 3,
             "owner": "ecmadao",
             "repo": "algorithms",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "algorithms-coursera",
+              "nodejs",
+              "tree"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -725,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My leetcode",
+            "homepage": null,
             "id": 71883308,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-04-12T09:17:57Z",
+            "open_issues": 0,
             "owner": "zzxboy1",
             "repo": "leetcode",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -741,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My LeetCode Problems' Solutions.",
+            "homepage": null,
             "id": 42583598,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-13T01:50:42Z",
+            "open_issues": 0,
             "owner": "theFool32",
             "repo": "LeetCode",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -757,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xiaoli's javascript solution for leetcode",
+            "homepage": null,
             "id": 28251842,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-05-17T07:48:36Z",
+            "open_issues": 0,
             "owner": "jiangxiaoli",
             "repo": "leetcode-javascript",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -773,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leetcode_answer",
+            "homepage": null,
             "id": 50509735,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-10T14:23:46Z",
+            "open_issues": 0,
             "owner": "MrErHu",
             "repo": "Leetcode",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -789,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "practices of leetcode, majorly javascript ",
+            "homepage": null,
             "id": 40726507,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-09-06T20:21:38Z",
+            "open_issues": 0,
             "owner": "EasyHard",
             "repo": "leetcodejs",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -805,12 +1329,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "leetcode algorithms solutions es6 javascript",
+            "homepage": null,
             "id": 70502367,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-03-02T12:44:36Z",
+            "open_issues": 0,
             "owner": "fa-ge",
             "repo": "leetcode",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "javascript",
+              "leetcode",
+              "leetcode-javascript",
+              "leetcode-solutions"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -821,12 +1355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 32339982,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-12T02:12:52Z",
+            "open_issues": 0,
             "owner": "AlanWei",
             "repo": "LeetCode",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -837,12 +1376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "solutions to various algo problems in javascript",
+            "homepage": null,
             "id": 66971815,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-11T16:56:02Z",
+            "open_issues": 0,
             "owner": "ktorng",
             "repo": "Algos",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -853,12 +1397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript Leetcode Solutions",
+            "homepage": null,
             "id": 58076421,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-19T16:31:11Z",
+            "open_issues": 0,
             "owner": "didi0613",
             "repo": "leetcode-javascript",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -869,12 +1418,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect my leetcode solutions.",
+            "homepage": null,
             "id": 68455584,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-07-08T05:36:42Z",
+            "open_issues": 0,
             "owner": "kpman",
             "repo": "leetcode",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -885,12 +1439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LeetCode Javascript",
+            "homepage": null,
             "id": 60227952,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-03-05T03:26:55Z",
+            "open_issues": 0,
             "owner": "coffeexy",
             "repo": "LeetCode",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -901,12 +1460,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Leetcode solutions using Javascript ECMA2015",
+            "homepage": null,
             "id": 60494581,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-07T05:54:55Z",
+            "open_issues": 0,
             "owner": "vsyw",
             "repo": "leetcode",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -917,12 +1481,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✏️ LeetCode solutions using JavaScript step by step",
+            "homepage": null,
             "id": 72819829,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-05-13T05:45:59Z",
+            "open_issues": 0,
             "owner": "KMBaby-zyl",
             "repo": "leetcode",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -933,12 +1502,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My JavaScript&Golang Solution of leetcode.",
+            "homepage": null,
             "id": 59075529,
             "language": "Go",
+            "license": null,
             "last_commit": "2018-10-15T01:59:50Z",
+            "open_issues": 0,
             "owner": "zj972",
             "repo": "leetcode",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "leetcode-go",
+              "leetcode-golang",
+              "leetcode-javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -949,12 +1527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "leetcode",
+            "homepage": null,
             "id": 54311587,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-09-23T05:58:39Z",
+            "open_issues": 0,
             "owner": "cs1707",
             "repo": "leetcode",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -965,12 +1548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My leetcode solutions",
+            "homepage": null,
             "id": 34941773,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-21T09:08:48Z",
+            "open_issues": 0,
             "owner": "imcoddy",
             "repo": "leetcode",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -981,12 +1569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "leetcode js答案解",
+            "homepage": null,
             "id": 39190569,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-22T15:00:40Z",
+            "open_issues": 0,
             "owner": "xiaoliwang",
             "repo": "leetcode",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -997,12 +1590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 42327708,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-23T19:36:50Z",
+            "open_issues": 0,
             "owner": "karenpeng",
             "repo": "leetCode",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1013,12 +1611,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "leetcode ",
+            "homepage": null,
             "id": 84938453,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-03-24T13:19:45Z",
+            "open_issues": 13,
             "owner": "LiuL0703",
             "repo": "algorithm",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "datastructures",
+              "javascript",
+              "leetcode",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1029,12 +1637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my LeetCode solution",
+            "homepage": null,
             "id": 34372394,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-17T13:02:50Z",
+            "open_issues": 0,
             "owner": "whwei",
             "repo": "LeetCode",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1045,12 +1658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All is LeetCode.",
+            "homepage": null,
             "id": 59421012,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-06-08T10:05:17Z",
+            "open_issues": 0,
             "owner": "dieface",
             "repo": "leetcode",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1061,12 +1679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The solutions of LeetCode problems in JavaScript",
+            "homepage": null,
             "id": 67630515,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-03T09:34:08Z",
+            "open_issues": 0,
             "owner": "alenny",
             "repo": "leetcode",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1077,12 +1700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "记录一下自己的LeetCode",
+            "homepage": null,
             "id": 70672944,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-01T08:35:29Z",
+            "open_issues": 0,
             "owner": "yuguo",
             "repo": "LeetCode",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1093,12 +1721,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My LeetCode submissions, written in JavaScript.",
+            "homepage": null,
             "id": 54953718,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-25T02:46:27Z",
+            "open_issues": 0,
             "owner": "HandsomeOne",
             "repo": "LeetCode",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1109,12 +1742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "leetcode",
+            "homepage": null,
             "id": 74423024,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-25T16:02:41Z",
+            "open_issues": 0,
             "owner": "magicly",
             "repo": "leetcode",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -1131,12 +1769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the Coding Interview, 5th Edition",
+            "homepage": null,
             "id": 8940534,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-06-26T09:01:08Z",
+            "open_issues": 65,
             "owner": "careercup",
             "repo": "ctci",
-            "stars": 5137
+            "stars": 5137,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1147,12 +1790,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
+            "homepage": null,
             "id": 127305987,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-02-29T08:26:56Z",
+            "open_issues": 12,
             "owner": "rohan-paul",
             "repo": "Awesome-JavaScript-Interviews",
-            "stars": 3742
+            "stars": 3742,
+            "topics": [
+              "challenges",
+              "css",
+              "expressjs",
+              "github",
+              "html5",
+              "interview",
+              "interview-prep",
+              "interview-preparation",
+              "interview-questions",
+              "javascript",
+              "mongodb",
+              "nodejs",
+              "reactjs",
+              "redux",
+              "system-design",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1163,12 +1828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the Coding Interview 6th Ed. JavaScript ES2015 Solutions",
+            "homepage": null,
             "id": 52219292,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-01T19:38:01Z",
+            "open_issues": 19,
             "owner": "careercup",
             "repo": "CtCI-6th-Edition-JavaScript-ES2015",
-            "stars": 836
+            "stars": 836,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1179,12 +1849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Javascript solutions to problems in the book Cracking the Coding Interview along with implementations of common data structures",
+            "homepage": null,
             "id": 33777261,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-09T03:27:36Z",
+            "open_issues": 12,
             "owner": "seemaullal",
             "repo": "CrackingTheCodingInterview-JS",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1195,12 +1870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Solutions to problems from Cracking the Coding Interview",
+            "homepage": null,
             "id": 143702703,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-10T02:39:02Z",
+            "open_issues": 0,
             "owner": "ChirpingMermaid",
             "repo": "CTCI",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1211,12 +1891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the Coding Interview Problems tackled in JS",
+            "homepage": null,
             "id": 34276794,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-07-01T05:23:38Z",
+            "open_issues": 0,
             "owner": "sashakhad",
             "repo": "CCI",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1227,12 +1912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "solutions to various algo problems in javascript",
+            "homepage": null,
             "id": 66971815,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-10-11T16:56:02Z",
+            "open_issues": 0,
             "owner": "ktorng",
             "repo": "Algos",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1243,12 +1933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the Coding Interview questions implemented in Node.js",
+            "homepage": null,
             "id": 29075444,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-05T09:32:57Z",
+            "open_issues": 0,
             "owner": "macalinao",
             "repo": "node-ctci",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1259,12 +1954,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Solutions from \"Cracking The Coding Interview\" in JavaScript.",
+            "homepage": "https://github.com/miguelmota/ctci-js",
             "id": 46327842,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-17T06:37:26Z",
+            "open_issues": 0,
             "owner": "miguelmota",
             "repo": "ctci-js",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1275,12 +1975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the coding interview problem solving",
+            "homepage": null,
             "id": 41797830,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-04T09:00:28Z",
+            "open_issues": 0,
             "owner": "sharlatta",
             "repo": "cracking",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1291,12 +1996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My solutions to questions found in Cracking the Coding Interview",
+            "homepage": null,
             "id": 20666172,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-06-12T00:18:36Z",
+            "open_issues": 0,
             "owner": "ammiranda",
             "repo": "CrackingTheCodingInterview",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1307,12 +2017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cracking the Coding Interview",
+            "homepage": null,
             "id": 37877807,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-17T07:29:37Z",
+            "open_issues": 0,
             "owner": "bryclee",
             "repo": "ctci",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1323,12 +2038,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cracking the coding interview questions",
+            "homepage": null,
             "id": 21222890,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-06-26T22:45:54Z",
+            "open_issues": 0,
             "owner": "rcerf",
             "repo": "MyCtci",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1339,12 +2059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toy problems, toy problems and more toy problems :)",
+            "homepage": null,
             "id": 49527272,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-04-20T14:41:19Z",
+            "open_issues": 0,
             "owner": "muddybarefeet",
             "repo": "Cracking-the-Coding-Interview-Problems",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1355,12 +2080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solutions to coding interview problems",
+            "homepage": null,
             "id": 13836128,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-18T14:48:59Z",
+            "open_issues": 0,
             "owner": "randy909",
             "repo": "coding-interview",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -1377,12 +2107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CAP FAQ",
+            "homepage": null,
             "id": 9972588,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-14T23:44:41Z",
+            "open_issues": 6,
             "owner": "henryr",
             "repo": "cap-faq",
-            "stars": 860
+            "stars": 860,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         },
@@ -1393,12 +2128,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+            "homepage": "http://twitter.com/",
             "id": 697976,
             "language": "Scala",
+            "license": null,
             "last_commit": "2020-07-22T18:08:14Z",
+            "open_issues": 4,
             "owner": "twitter-archive",
             "repo": "snowflake",
-            "stars": 7766
+            "stars": 7766,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
         }
@@ -1407,15 +2147,37 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:33:07.101Z",
+    "last_updated": "2026-08-29T04:20:00.149Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
+      "homepage": null,
       "id": 127305987,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2024-02-29T08:26:56Z",
+      "open_issues": 12,
       "owner": "rohan-paul",
       "repo": "Awesome-JavaScript-Interviews",
-      "stars": 3742
+      "stars": 3742,
+      "topics": [
+        "challenges",
+        "css",
+        "expressjs",
+        "github",
+        "html5",
+        "interview",
+        "interview-prep",
+        "interview-preparation",
+        "interview-questions",
+        "javascript",
+        "mongodb",
+        "nodejs",
+        "reactjs",
+        "redux",
+        "system-design",
+        "webpack"
+      ]
     },
     "original_repository_sha": "893557c58670b13867069dbb1c2d3d880b73bf01",
     "enhanced_repository": "enhansome/enhansome-Awesome-JavaScript-Interviews",
