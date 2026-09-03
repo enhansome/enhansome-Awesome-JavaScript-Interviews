@@ -555,12 +555,12 @@
 
 ## Understanding the Theory and the fundamentals of some super-popular Algorithm questions
 
-* :link: [coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 360,236 | 🐛 126 | 📅 2025-08-28
-* :link: [best javascript-algorithms github repo](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,595 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
-* :link: [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐ 60,870 | 🐛 63 | 🌐 Nunjucks | 📅 2026-06-16
-* :link: [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,767 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-31
-* :link: [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) ⭐ 43,998 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-13 - Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-* :link: <https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript> ⭐ 7,779 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-30
+* :link: [coding-interview-university](https://github.com/jwasham/coding-interview-university) ⭐ 360,283 | 🐛 126 | 📅 2025-08-28
+* :link: [best javascript-algorithms github repo](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,601 | 🐛 403 | 🌐 JavaScript | 📅 2026-07-26
+* :link: [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐ 60,868 | 🐛 63 | 🌐 Nunjucks | 📅 2026-06-16
+* :link: [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,769 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-31
+* :link: [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) ⭐ 43,997 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-13 - Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
+* :link: <https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript> ⭐ 7,780 | 🐛 8 | 🌐 JavaScript | 📅 2024-01-30
 * :link: [sorting-algorithms-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript) ⭐ 2,590 | 🐛 16 | 🌐 JavaScript | 📅 2023-08-09
 * :link: [Learn-Data\_Structure-Algorithm-by-Javascript](https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-Javascript) ⭐ 53 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-05
 * :link: [Big O Cheatsheet](http://bigocheatsheet.com/)
@@ -581,7 +581,7 @@
 
 ## Github Repositories with large collections of problems-and-solutions of them most popular Interview challenges
 
-* :link: [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) ⭐ 27,625 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-20
+* :link: [javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) ⭐ 27,630 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-20
 * :link: [30-seconds-of-interview](https://github.com/30-seconds/30-seconds-of-interviews) ⚠️ Archived
 * :link: [JavaScript-Code-Challenges](https://github.com/sadanandpai/javascript-code-challenges) ⭐ 4,462 | 🐛 3 | 🌐 MDX | 📅 2026-04-01
 * :link: [javascript-Exercises](https://github.com/kolodny/exercises) ⭐ 4,214 | 🐛 10 | 🌐 JavaScript | 📅 2017-10-03
@@ -628,7 +628,7 @@
 
 ### Other important resources
 
-* :book: [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,783 | 🐛 2 | 📅 2026-02-15
+* :book: [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 184,791 | 🐛 2 | 📅 2026-02-15
 * :link: [Super useful es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) ⭐ 13,318 | 🐛 7 | 🌐 JavaScript | 📅 2022-10-08
 * :link: [javascript cheatsheet](http://overapi.com/javascript)
 * :link: [Javascript cheat sheet - InterviewBit](https://www.interviewbit.com/javascript-cheat-sheet/)
@@ -676,9 +676,9 @@
 
 ## More curated list of general resources for JavaScript Interviews
 
-* :link: <https://github.com/Chalarangelo/30-seconds-of-code> ⭐ 128,903 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+* :link: <https://github.com/Chalarangelo/30-seconds-of-code> ⭐ 128,917 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-02 - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
 
-* :link: [Many tricky and common javascript-questions](https://github.com/lydiahallie/javascript-questions) ⭐ 65,324 | 🐛 53 | 📅 2024-08-04
+* :link: [Many tricky and common javascript-questions](https://github.com/lydiahallie/javascript-questions) ⭐ 65,322 | 🐛 53 | 📅 2024-08-04
 
 * :link: [https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) ⭐ 5,238 | 🐛 22 | 📅 2024-06-28 - 123-Essential-JavaScript-Interview-Question
 
@@ -870,7 +870,7 @@
 
 ## Ideas For small project ideas
 
-* [karan/Projects](https://github.com/karan/Projects) ⭐ 47,907 | 🐛 123 | 📅 2024-08-14 : a large collection of small projects for beginners with
+* [karan/Projects](https://github.com/karan/Projects) ⭐ 47,910 | 🐛 123 | 📅 2024-08-14 : a large collection of small projects for beginners with
 * [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) ⭐ 2,408 | 🐛 6 | 📅 2023-08-29 : Mega List of practical projects that one can solve in any programming language!
 * [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -889,7 +889,7 @@
 * [Develop for Performance](http://developforperformance.com) : High-performance computing techniques for software architects and developers
 * [How to become a programmer or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : How to become a programmer or the art of Googling well
 * [How to escape tutorial purgatory as a new developer — or at any time in your career](https://medium.freecodecamp.org/how-to-escape-tutorial-purgatory-as-a-new-developer-or-at-any-time-in-your-career-e3a4b2384a40) : How to escape tutorial purgatory
-* [JS Project Guidelines](https://github.com/wearehive/project-guidelines) ⭐ 29,447 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09 : A set of best practices for JavaScript projects.
+* [JS Project Guidelines](https://github.com/wearehive/project-guidelines) ⭐ 29,445 | 🐛 16 | 🌐 JavaScript | 📅 2024-12-09 : A set of best practices for JavaScript projects.
 * [Learn to Code With Me](https://learntocodewith.me) : A comprehensive site resource by Laurence Bradford for developers who aims to build a career in the tech world
 * [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : The Codist Header Lessons From A Lifetime Of Being A Programmer
 * [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : The entire collection of Design Patterns.
@@ -927,11 +927,11 @@
 
 ## Coding Style
 
-* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 208,633 | 🐛 27 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
+* [Directory of Online CS Courses](https://github.com/ossu/computer-science) ⭐ 208,664 | 🐛 27 | 🌐 HTML | 📅 2026-07-14 : Free online CS courses
 * [Airbnb JS Style Guide](https://github.com/airbnb/javascript) ⭐ 148,140 | 🐛 164 | 🌐 JavaScript | 📅 2026-04-16 : A mostly reasonable approach to JavaScript
-* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 70,833 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
+* [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) ⭐ 70,859 | 🐛 65 | 📅 2023-05-04 : Another online CS courses
 * [Angular Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) ⭐ 23,614 | 🐛 1 | 🌐 Vim Snippet | 📅 2026-04-30 : Officially endorsed style guide by John Pappa
-* [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,547 | 🐛 74 | 📅 2026-07-20 : A community-driven Ruby coding style guide
+* [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,546 | 🐛 73 | 📅 2026-07-20 : A community-driven Ruby coding style guide
 * [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) ⭐ 3,892 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19 : A ruby style guide by Airbnb
 * [Aurelia Style Guide](https://github.com/behzad888/Aurelia-styleguide) ⭐ 24 | 🐛 0 | 📅 2017-08-22 : An Aurelia style guide by Behzad Abbasi(Behzad888)
 * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
@@ -993,8 +993,8 @@
 ## Collection of Cracking the Coding Interview Book Problem solution
 
 * [github.com/careercup/ctci/tree/master/javascript/lib/data-structures](https://github.com/careercup/ctci/tree/master/javascript/lib/data-structures) ⭐ 5,137 | 🐛 65 | 🌐 Java | 📅 2023-06-26
-* [github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution](https://github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution) ⭐ 3,742 | 🐛 12 | 🌐 JavaScript | 📅 2024-02-29
-* [github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015) ⭐ 836 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-01
+* [github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution](https://github.com/rohan-paul/Awesome-JavaScript-Interviews#collection-of-cracking-the-coding-interview-book-problem-solution) ⭐ 3,741 | 🐛 12 | 🌐 JavaScript | 📅 2024-02-29
+* [github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015) ⭐ 835 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-01
 * [github.com/seemaullal/CrackingTheCodingInterview-JS](https://github.com/seemaullal/CrackingTheCodingInterview-JS) ⭐ 125 | 🐛 12 | 🌐 JavaScript | 📅 2024-11-09
 * [github.com/ChirpingMermaid/CTCI](https://github.com/ChirpingMermaid/CTCI) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-10
 * [github.com/SashaBayan/CCI](https://github.com/SashaBayan/CCI) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2015-07-01
@@ -1206,4 +1206,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
