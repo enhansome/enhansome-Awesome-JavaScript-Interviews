@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": ":link: coding-interview-university",
-          "description": null,
+          "description": "jwasham/coding-interview-university",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362242,
+            "stars": 362262,
             "topics": [
               "algorithm",
               "algorithms",
@@ -40,7 +40,7 @@
         {
           "node_type": "item",
           "title": ":link: best javascript-algorithms github repo",
-          "description": null,
+          "description": "trekhleb/javascript-algorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -53,7 +53,7 @@
             "open_issues": 408,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196865,
+            "stars": 196866,
             "topics": [
               "algorithm",
               "algorithms",
@@ -70,7 +70,7 @@
         {
           "node_type": "item",
           "title": ":link: Front-end-Developer-Interview-Questions",
-          "description": null,
+          "description": "h5bp/Front-end-Developer-Interview-Questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
             "open_issues": 63,
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60854,
+            "stars": 60853,
             "topics": [
               "css-questions",
               "front-end",
@@ -98,7 +98,7 @@
         {
           "node_type": "item",
           "title": ":link: reactjs-interview-questions",
-          "description": null,
+          "description": "sudheerj/reactjs-interview-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
             "open_issues": 12,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44838,
+            "stars": 44839,
             "topics": [
               "interview-preparation",
               "interview-questions",
@@ -170,7 +170,7 @@
         {
           "node_type": "item",
           "title": ":link: https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript",
-          "description": null,
+          "description": "amejiarosario/dsa.js-data-structures-algorithms-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": ":link: sorting-algorithms-in-javascript",
-          "description": null,
+          "description": "benoitvallon/computer-science-in-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -232,7 +232,7 @@
         {
           "node_type": "item",
           "title": ":link: Learn-Data_Structure-Algorithm-by-Javascript",
-          "description": null,
+          "description": "Algorithm-archive/Learn-Data_Structure-Algorithm-by-Javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": ":link: javascript-interview-questions",
-          "description": null,
+          "description": "sudheerj/javascript-interview-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -279,7 +279,7 @@
             "open_issues": 20,
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27670,
+            "stars": 27669,
             "topics": [
               "angular",
               "core-javascript",
@@ -296,7 +296,7 @@
         {
           "node_type": "item",
           "title": ":link: 30-seconds-of-interview",
-          "description": null,
+          "description": "Chalarangelo/30-seconds-of-interviews",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12127,
+            "stars": 12126,
             "topics": [
               "awesome-list",
               "css",
@@ -329,7 +329,7 @@
         {
           "node_type": "item",
           "title": ":link: JavaScript-Code-Challenges",
-          "description": null,
+          "description": "sadanandpai/javascript-code-challenges",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -367,7 +367,7 @@
         {
           "node_type": "item",
           "title": ":link: javascript-Exercises",
-          "description": null,
+          "description": "kolodny/exercises",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -388,7 +388,7 @@
         {
           "node_type": "item",
           "title": ":link: interview-questions-in-javascript",
-          "description": null,
+          "description": "kennymkchan/interview-questions-in-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,7 +401,7 @@
             "open_issues": 4,
             "owner": "kennymkchan",
             "repo": "interview-questions-in-javascript",
-            "stars": 3621,
+            "stars": 3620,
             "topics": [
               "array",
               "interview-practice",
@@ -418,7 +418,7 @@
         {
           "node_type": "item",
           "title": ":link: Cracking the Coding Interview - Javascript",
-          "description": null,
+          "description": "careercup/CtCI-6th-Edition-JavaScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -439,7 +439,7 @@
         {
           "node_type": "item",
           "title": ":link: js--interview-questions",
-          "description": null,
+          "description": "vvscode/js--interview-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,7 +473,7 @@
         {
           "node_type": "item",
           "title": ":link: Algorithms-Leetcode-Javascript",
-          "description": null,
+          "description": "ignacio-chiazzo/Algorithms-Leetcode-Javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +515,7 @@
         {
           "node_type": "item",
           "title": ":link: Algorithm-in-JavaScript",
-          "description": null,
+          "description": "rohan-paul/Algorithm-in-JavaScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -547,7 +547,7 @@
         {
           "node_type": "item",
           "title": ":link: Javascript-Challenges",
-          "description": null,
+          "description": "rohan-paul/Javascript-Common-Challenges-Problems",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -574,7 +574,7 @@
         {
           "node_type": "item",
           "title": ":link: code-problems-solutions",
-          "description": null,
+          "description": "muthu-cs/code-problems-solutions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -603,7 +603,7 @@
             {
               "node_type": "item",
               "title": ":book: You-Dont-Know-JS",
-              "description": null,
+              "description": "getify/You-Dont-Know-JS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 185010,
+                "stars": 185009,
                 "topics": [
                   "async",
                   "book",
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": ":link: Super useful es6-cheatsheet",
-              "description": null,
+              "description": "DrkSephy/es6-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -651,7 +651,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13304,
+                "stars": 13303,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -687,7 +687,7 @@
             "open_issues": 0,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 129305,
+            "stars": 129308,
             "topics": [
               "astro",
               "awesome-list",
@@ -709,7 +709,7 @@
         {
           "node_type": "item",
           "title": ":link: Many tricky and common javascript-questions",
-          "description": null,
+          "description": "lydiahallie/javascript-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -722,7 +722,7 @@
             "open_issues": 53,
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65304,
+            "stars": 65303,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -802,7 +802,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47969,
+            "stars": 47970,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -850,7 +850,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209688,
+            "stars": 209701,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -873,10 +873,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148303,
+            "stars": 148300,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -912,7 +912,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71539,
+            "stars": 71549,
             "topics": [
               "awesome",
               "awesome-list",
@@ -938,7 +938,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23602,
+            "stars": 23601,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -984,7 +984,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3891,
+            "stars": 3892,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -1022,7 +1022,7 @@
         {
           "node_type": "item",
           "title": "chihungyu1116/leetcode-javascript",
-          "description": null,
+          "description": "chihungyu1116/leetcode-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1043,7 +1043,7 @@
         {
           "node_type": "item",
           "title": "paopao2/leetcode-js",
-          "description": null,
+          "description": "paopao2/leetcode-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1064,7 +1064,7 @@
         {
           "node_type": "item",
           "title": "paopao2/leetcode-js",
-          "description": null,
+          "description": "paopao2/leetcode-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1085,7 +1085,7 @@
         {
           "node_type": "item",
           "title": "dnshi/Leetcode",
-          "description": null,
+          "description": "dnshi/Leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1112,7 +1112,7 @@
         {
           "node_type": "item",
           "title": "hijiangtao/LeetCode-with-JavaScript",
-          "description": null,
+          "description": "hijiangtao/LeetCode-with-JavaScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1141,7 +1141,7 @@
         {
           "node_type": "item",
           "title": "xiaoyu2er/leetcode-js",
-          "description": null,
+          "description": "xiaoyu2er/leetcode-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1168,7 +1168,7 @@
         {
           "node_type": "item",
           "title": "revan-zhang/leetcode-javascript",
-          "description": null,
+          "description": "revan-zhang/leetcode-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "ecmadao/algorithms",
-          "description": null,
+          "description": "ecmadao/algorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1220,7 +1220,7 @@
         {
           "node_type": "item",
           "title": "zzxboy1/leetcode",
-          "description": null,
+          "description": "zzxboy1/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1241,7 +1241,7 @@
         {
           "node_type": "item",
           "title": "theFool32/LeetCode",
-          "description": null,
+          "description": "theFool32/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1262,7 +1262,7 @@
         {
           "node_type": "item",
           "title": "jiangxiaoli/leetcode-javascript",
-          "description": null,
+          "description": "jiangxiaoli/leetcode-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1283,7 +1283,7 @@
         {
           "node_type": "item",
           "title": "MrErHu/Leetcode",
-          "description": null,
+          "description": "MrErHu/Leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1304,7 +1304,7 @@
         {
           "node_type": "item",
           "title": "EasyHard/leetcodejs",
-          "description": null,
+          "description": "EasyHard/leetcodejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1325,7 +1325,7 @@
         {
           "node_type": "item",
           "title": "fa-ge/leetcode",
-          "description": null,
+          "description": "fa-ge/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1351,7 +1351,7 @@
         {
           "node_type": "item",
           "title": "AlanWei/LeetCode",
-          "description": null,
+          "description": "AlanWei/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1372,7 +1372,7 @@
         {
           "node_type": "item",
           "title": "ktorng/Algos",
-          "description": null,
+          "description": "ktorng/Algos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1393,7 +1393,7 @@
         {
           "node_type": "item",
           "title": "didi0613/leetcode-javascript",
-          "description": null,
+          "description": "didi0613/leetcode-javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1414,7 +1414,7 @@
         {
           "node_type": "item",
           "title": "kpman/leetcode",
-          "description": null,
+          "description": "kpman/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1435,7 +1435,7 @@
         {
           "node_type": "item",
           "title": "coffeexy/LeetCode",
-          "description": null,
+          "description": "coffeexy/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1456,7 +1456,7 @@
         {
           "node_type": "item",
           "title": "vsyw/leetcode",
-          "description": null,
+          "description": "vsyw/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1477,7 +1477,7 @@
         {
           "node_type": "item",
           "title": "KMBaby-zyl/leetcode",
-          "description": null,
+          "description": "KMBaby-zyl/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1498,7 +1498,7 @@
         {
           "node_type": "item",
           "title": "zj972/leetcode",
-          "description": null,
+          "description": "zj972/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1523,7 +1523,7 @@
         {
           "node_type": "item",
           "title": "cs1707/leetcode",
-          "description": null,
+          "description": "cs1707/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1544,7 +1544,7 @@
         {
           "node_type": "item",
           "title": "imcoddy/leetcode",
-          "description": null,
+          "description": "imcoddy/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1565,7 +1565,7 @@
         {
           "node_type": "item",
           "title": "xiaoliwang/leetcode",
-          "description": null,
+          "description": "xiaoliwang/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1586,7 +1586,7 @@
         {
           "node_type": "item",
           "title": "karenpeng/leetCode",
-          "description": null,
+          "description": "karenpeng/leetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1607,7 +1607,7 @@
         {
           "node_type": "item",
           "title": "LiuL0703/algorithm",
-          "description": null,
+          "description": "LiuL0703/algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1633,7 +1633,7 @@
         {
           "node_type": "item",
           "title": "whwei/LeetCode",
-          "description": null,
+          "description": "whwei/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1654,7 +1654,7 @@
         {
           "node_type": "item",
           "title": "dieface/leetcode",
-          "description": null,
+          "description": "dieface/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1675,7 +1675,7 @@
         {
           "node_type": "item",
           "title": "alenny/leetcode",
-          "description": null,
+          "description": "alenny/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1696,7 +1696,7 @@
         {
           "node_type": "item",
           "title": "yuguo/LeetCode",
-          "description": null,
+          "description": "yuguo/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1717,7 +1717,7 @@
         {
           "node_type": "item",
           "title": "HandsomeOne/LeetCode",
-          "description": null,
+          "description": "HandsomeOne/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1738,7 +1738,7 @@
         {
           "node_type": "item",
           "title": "magicly/leetcode",
-          "description": null,
+          "description": "magicly/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1765,7 +1765,7 @@
         {
           "node_type": "item",
           "title": "careercup/ctci",
-          "description": null,
+          "description": "careercup/ctci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1785,46 +1785,8 @@
         },
         {
           "node_type": "item",
-          "title": "rohan-paul/Awesome-JavaScript-Interviews",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
-            "homepage": null,
-            "id": 127305987,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2024-02-29T08:26:56Z",
-            "open_issues": 12,
-            "owner": "rohan-paul",
-            "repo": "Awesome-JavaScript-Interviews",
-            "stars": 3742,
-            "topics": [
-              "challenges",
-              "css",
-              "expressjs",
-              "github",
-              "html5",
-              "interview",
-              "interview-prep",
-              "interview-preparation",
-              "interview-questions",
-              "javascript",
-              "mongodb",
-              "nodejs",
-              "reactjs",
-              "redux",
-              "system-design",
-              "webpack"
-            ]
-          },
-          "first_seen": "2026-08-28T21:33:07.101Z"
-        },
-        {
-          "node_type": "item",
           "title": "careercup/CtCI-6th-Edition-JavaScript-ES2015",
-          "description": null,
+          "description": "careercup/CtCI-6th-Edition-JavaScript-ES2015",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1845,7 +1807,7 @@
         {
           "node_type": "item",
           "title": "seemaullal/CrackingTheCodingInterview-JS",
-          "description": null,
+          "description": "seemaullal/CrackingTheCodingInterview-JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1866,7 +1828,7 @@
         {
           "node_type": "item",
           "title": "ChirpingMermaid/CTCI",
-          "description": null,
+          "description": "ChirpingMermaid/CTCI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1887,7 +1849,7 @@
         {
           "node_type": "item",
           "title": "sashakhad/CCI",
-          "description": null,
+          "description": "sashakhad/CCI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1908,7 +1870,7 @@
         {
           "node_type": "item",
           "title": "ktorng/Algos",
-          "description": null,
+          "description": "ktorng/Algos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1929,7 +1891,7 @@
         {
           "node_type": "item",
           "title": "macalinao/node-ctci",
-          "description": null,
+          "description": "macalinao/node-ctci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1950,7 +1912,7 @@
         {
           "node_type": "item",
           "title": "miguelmota/ctci-js",
-          "description": null,
+          "description": "miguelmota/ctci-js",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1971,7 +1933,7 @@
         {
           "node_type": "item",
           "title": "sharlatta/cracking",
-          "description": null,
+          "description": "sharlatta/cracking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1992,7 +1954,7 @@
         {
           "node_type": "item",
           "title": "ammiranda/CrackingTheCodingInterview",
-          "description": null,
+          "description": "ammiranda/CrackingTheCodingInterview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2013,7 +1975,7 @@
         {
           "node_type": "item",
           "title": "bryclee/ctci",
-          "description": null,
+          "description": "bryclee/ctci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2034,7 +1996,7 @@
         {
           "node_type": "item",
           "title": "rcerf/MyCtci",
-          "description": null,
+          "description": "rcerf/MyCtci",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2055,7 +2017,7 @@
         {
           "node_type": "item",
           "title": "muddybarefeet/Cracking-the-Coding-Interview-Problems",
-          "description": null,
+          "description": "muddybarefeet/Cracking-the-Coding-Interview-Problems",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2076,7 +2038,7 @@
         {
           "node_type": "item",
           "title": "randy909/coding-interview",
-          "description": null,
+          "description": "randy909/coding-interview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2103,7 +2065,7 @@
         {
           "node_type": "item",
           "title": "The CAP FAQ",
-          "description": null,
+          "description": "henryr/cap-faq",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2116,7 +2078,7 @@
             "open_issues": 6,
             "owner": "henryr",
             "repo": "cap-faq",
-            "stars": 864,
+            "stars": 863,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -2124,7 +2086,7 @@
         {
           "node_type": "item",
           "title": "snowflake",
-          "description": null,
+          "description": "twitter-archive/snowflake",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2147,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:52:56.640Z",
+    "last_updated": "2026-10-03T04:27:27.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
