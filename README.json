@@ -19,7 +19,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362439,
+            "stars": 362452,
             "topics": [
               "algorithm",
               "algorithms",
@@ -50,10 +50,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
-            "open_issues": 407,
+            "open_issues": 410,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196857,
+            "stars": 196861,
             "topics": [
               "algorithm",
               "algorithms",
@@ -111,7 +111,7 @@
             "open_issues": 12,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44844,
+            "stars": 44845,
             "topics": [
               "interview-preparation",
               "interview-questions",
@@ -183,7 +183,7 @@
             "open_issues": 8,
             "owner": "amejiarosario",
             "repo": "dsa.js-data-structures-algorithms-javascript",
-            "stars": 7782,
+            "stars": 7781,
             "topics": [
               "algorithm",
               "algorithms",
@@ -279,7 +279,7 @@
             "open_issues": 20,
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27677,
+            "stars": 27678,
             "topics": [
               "angular",
               "core-javascript",
@@ -380,7 +380,7 @@
             "open_issues": 10,
             "owner": "kolodny",
             "repo": "exercises",
-            "stars": 4208,
+            "stars": 4209,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 185012,
+                "stars": 185009,
                 "topics": [
                   "async",
                   "book",
@@ -687,7 +687,7 @@
             "open_issues": 0,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 129325,
+            "stars": 129324,
             "topics": [
               "astro",
               "awesome-list",
@@ -722,7 +722,7 @@
             "open_issues": 53,
             "owner": "lydiahallie",
             "repo": "javascript-questions",
-            "stars": 65303,
+            "stars": 65302,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -850,7 +850,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209899,
+            "stars": 209915,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -876,7 +876,7 @@
             "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148304,
+            "stars": 148303,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -912,7 +912,7 @@
             "open_issues": 65,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 71636,
+            "stars": 71643,
             "topics": [
               "awesome",
               "awesome-list",
@@ -938,7 +938,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23600,
+            "stars": 23601,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -2109,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:23.473Z",
+    "last_updated": "2026-10-06T17:28:01.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
