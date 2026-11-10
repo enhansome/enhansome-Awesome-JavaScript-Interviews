@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364147,
+            "stars": 364187,
             "topics": [
               "algorithm",
               "algorithms",
@@ -53,7 +53,7 @@
             "open_issues": 437,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196723,
+            "stars": 196725,
             "topics": [
               "algorithm",
               "algorithms",
@@ -83,7 +83,7 @@
             "open_issues": 61,
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60846,
+            "stars": 60847,
             "topics": [
               "css-questions",
               "front-end",
@@ -111,7 +111,7 @@
             "open_issues": 16,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44918,
+            "stars": 44920,
             "topics": [
               "interview-preparation",
               "interview-questions",
@@ -146,7 +146,7 @@
             "open_issues": 11,
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 44004,
+            "stars": 44002,
             "topics": [
               "css",
               "css-questions",
@@ -183,7 +183,7 @@
             "open_issues": 8,
             "owner": "amejiarosario",
             "repo": "dsa.js-data-structures-algorithms-javascript",
-            "stars": 7776,
+            "stars": 7777,
             "topics": [
               "algorithm",
               "algorithms",
@@ -279,7 +279,7 @@
             "open_issues": 22,
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27675,
+            "stars": 27677,
             "topics": [
               "angular",
               "core-javascript",
@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12122,
+            "stars": 12123,
             "topics": [
               "awesome-list",
               "css",
@@ -486,7 +486,7 @@
             "open_issues": 10,
             "owner": "ignacio-chiazzo",
             "repo": "Algorithms-Leetcode-Javascript",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "algorithms",
               "algortithms",
@@ -651,7 +651,7 @@
                 "open_issues": 7,
                 "owner": "DrkSephy",
                 "repo": "es6-cheatsheet",
-                "stars": 13289,
+                "stars": 13290,
                 "topics": [
                   "cheatsheet",
                   "es6-javascript",
@@ -687,7 +687,7 @@
             "open_issues": 2,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 129473,
+            "stars": 129481,
             "topics": [
               "astro",
               "awesome-list",
@@ -775,7 +775,7 @@
             "open_issues": 3,
             "owner": "ggomaeng",
             "repo": "awesome-js",
-            "stars": 388,
+            "stars": 389,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -802,7 +802,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 48102,
+            "stars": 48101,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -850,7 +850,7 @@
             "open_issues": 29,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211042,
+            "stars": 211075,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -876,7 +876,7 @@
             "open_issues": 169,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148018,
+            "stars": 148012,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -912,7 +912,7 @@
             "open_issues": 66,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 72717,
+            "stars": 72740,
             "topics": [
               "awesome",
               "awesome-list",
@@ -938,7 +938,7 @@
             "open_issues": 3,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23584,
+            "stars": 23585,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -959,7 +959,7 @@
             "open_issues": 77,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16542,
+            "stars": 16541,
             "topics": [
               "rubocop",
               "ruby",
@@ -1035,7 +1035,7 @@
             "open_issues": 9,
             "owner": "chihungyu1116",
             "repo": "leetcode-javascript",
-            "stars": 840,
+            "stars": 841,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -1799,7 +1799,7 @@
             "open_issues": 19,
             "owner": "careercup",
             "repo": "CtCI-6th-Edition-JavaScript-ES2015",
-            "stars": 833,
+            "stars": 834,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -2099,7 +2099,7 @@
             "open_issues": 4,
             "owner": "twitter-archive",
             "repo": "snowflake",
-            "stars": 7754,
+            "stars": 7755,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -2109,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:40:03.568Z",
+    "last_updated": "2026-11-10T18:57:03.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
