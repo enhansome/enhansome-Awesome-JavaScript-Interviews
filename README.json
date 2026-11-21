@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 364665,
+            "stars": 364737,
             "topics": [
               "algorithm",
               "algorithms",
@@ -53,7 +53,7 @@
             "open_issues": 441,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196753,
+            "stars": 196757,
             "topics": [
               "algorithm",
               "algorithms",
@@ -108,10 +108,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-13T20:30:23Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44911,
+            "stars": 44912,
             "topics": [
               "interview-preparation",
               "interview-questions",
@@ -146,7 +146,7 @@
             "open_issues": 11,
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43998,
+            "stars": 44002,
             "topics": [
               "css",
               "css-questions",
@@ -279,7 +279,7 @@
             "open_issues": 22,
             "owner": "sudheerj",
             "repo": "javascript-interview-questions",
-            "stars": 27676,
+            "stars": 27678,
             "topics": [
               "angular",
               "core-javascript",
@@ -309,7 +309,7 @@
             "open_issues": 19,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-interviews",
-            "stars": 12122,
+            "stars": 12120,
             "topics": [
               "awesome-list",
               "css",
@@ -616,7 +616,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184863,
+                "stars": 184865,
                 "topics": [
                   "async",
                   "book",
@@ -687,7 +687,7 @@
             "open_issues": 1,
             "owner": "Chalarangelo",
             "repo": "30-seconds-of-code",
-            "stars": 129578,
+            "stars": 129587,
             "topics": [
               "astro",
               "awesome-list",
@@ -743,7 +743,7 @@
             "open_issues": 22,
             "owner": "ganqqwerty",
             "repo": "123-Essential-JavaScript-Interview-Questions",
-            "stars": 5233,
+            "stars": 5234,
             "topics": [
               "coding-challenge",
               "coding-interview",
@@ -802,7 +802,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 48107,
+            "stars": 48110,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -850,7 +850,7 @@
             "open_issues": 31,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 211363,
+            "stars": 211387,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -876,7 +876,7 @@
             "open_issues": 171,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148020,
+            "stars": 148019,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -912,7 +912,7 @@
             "open_issues": 67,
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 73038,
+            "stars": 73068,
             "topics": [
               "awesome",
               "awesome-list",
@@ -938,7 +938,7 @@
             "open_issues": 3,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23581,
+            "stars": 23579,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -1778,7 +1778,7 @@
             "open_issues": 65,
             "owner": "careercup",
             "repo": "ctci",
-            "stars": 5126,
+            "stars": 5127,
             "topics": []
           },
           "first_seen": "2026-08-28T21:33:07.101Z"
@@ -2109,7 +2109,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T19:18:04.996Z",
+    "last_updated": "2026-11-21T18:19:51.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :) ",
